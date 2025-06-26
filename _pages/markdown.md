@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Publications <font size=3></font>
+Publication <font size=3></font>
 ------
 **<font size=3>Journals</font>** <br><font size=1>(* for equal contribution, # for corresponding author)</font>
 * <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>

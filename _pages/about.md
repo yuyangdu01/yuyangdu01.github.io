@@ -16,7 +16,7 @@ redirect_from:
 Selected Publications <font size=3></font>
 ------
 <div class="row border-bottom-1">
-  <table border="0"><tr>
+  <table border="0" cellspacing="1"><tr>
   <td>
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png" width="400"></div>
   </td>

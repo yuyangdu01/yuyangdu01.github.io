@@ -15,9 +15,16 @@ redirect_from:
 
 Selected Publications <font size=3></font>
 ------
-* <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
-* <font size=3>Cui, H.*, <b><u>Du, Y.</u></b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
-* <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
+<div class="row border-bottom-1">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png"></div>
+  <div class="col align-self-center pub">
+    <h1 class="pub-title">Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</h1>
+    <p class="pub-p">Y. Du, S. C. Liew</p>
+    <p class="pub-p">in IEEE Transactions on Vehicular Technology, 2025</p>
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank">Arxiv</a>
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>
+  </div>
+</div>
 
 What's New <font size=3></font>
 ------

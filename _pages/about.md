@@ -28,10 +28,6 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td>
-  </tr></table>
-</div>
-<div class="row border-bottom-1">
-  <table border="0" cellspacing="1" border-left="none" border-right="none"><tr>
   <td>
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/2.png" width="400"></div>
   </td>
@@ -44,6 +40,7 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank">Github</a>&emsp;&emsp;
   </div>
   </td>
+  
   </tr></table>
 </div>
 

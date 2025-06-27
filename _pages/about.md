@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;"><font size=3> I am a Postdoctoral Researcher at The Chinese University of Hong Kong (CUHK), where I work with Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my Ph.D. degree in Information Engineering from CUHK, also advised by Prof. Liew. I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), where I was supervised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. Previously, I was a visiting scholar at Harvard University, and a communication engineer at Huawei 2012 Lab</font></p>
+<p style="text-align: justify;"><font size=3> I received my Ph.D. degree in Information Engineering from The Chinese University of Hong Kong (CUHK), where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. Currently, I am a Postdoctoral Researcher at Department of Information Engineering, CUHK. Prior to that, I was a visiting scholar at Harvard University, a communication engineer at Huawei 2012 Lab, and a hardware engineer at China Mobile.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</font></p>  
+<p style="text-align: justify;"><font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</font></p>
 
 **<font size=3>I am on the job market and looking for research positions in both industry and academia.</font>**
 

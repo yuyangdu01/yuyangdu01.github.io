@@ -16,13 +16,19 @@ redirect_from:
 Selected Publications <font size=3></font>
 ------
 <div class="row border-bottom-1">
+  <table><tr>
+  <td>
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png" width="300"></div>
+  </td>
+  <td>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</b></font></p>
     <p class="pub-p"><font size=3><b>Y. Du</b>, S. C. Liew <br>in IEEE Transactions on Vehicular Technology, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>&emsp;&emsp;
   </div>
+  </td>
+  </tr></table>
 </div>
 
 What's New <font size=3></font>

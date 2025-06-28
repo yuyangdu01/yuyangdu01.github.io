@@ -17,7 +17,7 @@ Selected Publications <font size=3></font>
 ------
 <font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
 <div>
-  <table border="0" style="border-collapse: collapse; border: none;">
+  <table style="border-collapse: collapse; border: none;">
   <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
@@ -29,10 +29,10 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
-  <tr><td width="300">
+  <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
-  <td>
+  <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, K. Chen, Y. Zhan, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
@@ -41,10 +41,10 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank">Github</a>&emsp;&emsp;
   </div>
   </td></tr>
-  <tr><td width="300">
+  <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
-  <td>
+  <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models</b></font></p>
     <p class="pub-p"><font size=2>F. Zhang*, <b>Y. Du*</b>, K. Chen, Y. Shao, S. C. Liew <br>in IEEE Transactions on Machine Learning in Communications and Networking, 2025</font></p>

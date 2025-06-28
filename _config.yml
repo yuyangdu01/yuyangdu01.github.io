@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "&emsp;Yuyang Du's Homepage" #&emsp;&emsp;&emsp;&emsp;
-title_separator          : "-"
+title_separator          : #"-"
 name                     : &name "Yuyang Du"
 description              : &description "personal description"
 url                      : https://yuyangdu01.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"

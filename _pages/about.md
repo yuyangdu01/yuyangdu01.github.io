@@ -36,9 +36,9 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, K. Chen, Y. Zhan, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank">IEEE Xplore</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank">Github</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -48,8 +48,8 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models</b></font></p>
     <p class="pub-p"><font size=2>F. Zhang*, <b>Y. Du*</b>, K. Chen, Y. Shao, S. C. Liew <br>in IEEE Transactions on Machine Learning in Communications and Networking, 2025</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2407.15335" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10778295" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2407.15335" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10778295" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -59,9 +59,9 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations</b></font></p>
     <p class="pub-p"><font size=2>L. Wang*, <b>Y. Du*</b>, X. Long*, X. Liu*, K. Chen, S. C. Liew <br>In Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services (Mobisys), 2025</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2504.13190" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://github.com/SeaBreezing/Cellular-X" target="_blank">Github</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://youtube.com/playlist?list=PLi7wIohZ9VLjfbtShawzEk49BKUE11QiU&" target="_blank">Demo</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2504.13190" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://github.com/SeaBreezing/Cellular-X" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://youtube.com/playlist?list=PLi7wIohZ9VLjfbtShawzEk49BKUE11QiU&" target="_blank" style="text-decoration: none;">Demo</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -71,9 +71,9 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>LLMind: Orchestrating AI and IoT with LLMs for complex task execution</b></font></p>
     <p class="pub-p"><font size=2>H. Cui*, <b>Y. Du*</b>, Q. Yang, Y. Shao, S. C. Liew, <br>in IEEE Communications Magazine, 2024</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2312.09007" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10697418" target="_blank">IEEE Xplore</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://www.youtube.com/watch?v=3Al5qRntEEU" target="_blank">Demo</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2312.09007" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10697418" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://www.youtube.com/watch?v=3Al5qRntEEU" target="_blank" style="text-decoration: none;">Demo</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -83,8 +83,8 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Efficient FFT computation in IFDMA transceivers</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, S. C. Liew, Y. Shao <br>in IEEE Transactions on Wireless Communications, 2023</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2203.09932" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10049776" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2203.09932" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10049776" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -94,7 +94,7 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, L. Hao, Y. Lei, Q. Yang, S. Xu <br>in IEEE Systems Journal, 2024</font></p>
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10540457" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10540457" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
@@ -104,7 +104,7 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>SER Optimization in OFDM-IM Systems With Nonlinear Power Amplifiers</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, L. Hao and Y. Lei <br>in IEEE Transactions on Vehicular Technology, 2023</font></p>
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10132544" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10132544" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
   

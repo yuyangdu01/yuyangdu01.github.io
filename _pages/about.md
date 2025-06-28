@@ -19,7 +19,7 @@ Selected Publications <font size=3></font>
 <div>
   <table style="border-collapse: collapse; border: none;">
   <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png" width="400"></div>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
@@ -30,7 +30,7 @@ Selected Publications <font size=3></font>
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/2.png" width="400"></div>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
@@ -42,7 +42,7 @@ Selected Publications <font size=3></font>
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/3.png" width="400"></div>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
@@ -50,6 +50,30 @@ Selected Publications <font size=3></font>
     <p class="pub-p"><font size=2>F. Zhang*, <b>Y. Du*</b>, K. Chen, Y. Shao, S. C. Liew <br>in IEEE Transactions on Machine Learning in Communications and Networking, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2407.15335" target="_blank">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10778295" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+  </div>
+  </td></tr>
+  <tr><td width="300" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/4.png" width="400"></div>
+  </td>
+  <td style="border: none;">
+  <div class="col align-self-center pub">
+    <p class="pub-p"><font size=3><b>Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations</b></font></p>
+    <p class="pub-p"><font size=2>L. Wang*, <b>Y. Du*</b>, X. Long*, X. Liu*, K. Chen, S. C. Liew <br>In Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services (Mobisys), 2025</font></p>
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2504.13190" target="_blank">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://github.com/SeaBreezing/Cellular-X" target="_blank">Github</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://youtube.com/playlist?list=PLi7wIohZ9VLjfbtShawzEk49BKUE11QiU&" target="_blank">Demo</a>&emsp;&emsp;
+  </div>
+  </td></tr>
+  <tr><td width="300" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/5.png" width="400"></div>
+  </td>
+  <td style="border: none;">
+  <div class="col align-self-center pub">
+    <p class="pub-p"><font size=3><b>LLMind: Orchestrating AI and IoT with LLMs for complex task execution</b></font></p>
+    <p class="pub-p"><font size=2>H. Cui*, <b>Y. Du*</b>, Q. Yang, Y. Shao, S. C. Liew, <br>in IEEE Communications Magazine, 2024</font></p>
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2312.09007" target="_blank">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10697418" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://www.youtube.com/watch?v=3Al5qRntEEU" target="_blank">Demo</a>&emsp;&emsp;
   </div>
   </td></tr>
   

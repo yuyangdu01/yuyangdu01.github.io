@@ -15,6 +15,7 @@ redirect_from:
 
 Selected Publications <font size=3></font>
 ------
+<font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
 <div class="row border-bottom-1">
   <table border="0" cellspacing="1" border-left="none" border-right="none">
   <tr><td width="300">
@@ -22,7 +23,7 @@ Selected Publications <font size=3></font>
   </td>
   <td>
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3>Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</font></p>
+    <p class="pub-p"><font size=3><b>Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, S. C. Liew <br>in IEEE Transactions on Vehicular Technology, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>&emsp;&emsp;
@@ -33,7 +34,7 @@ Selected Publications <font size=3></font>
   </td>
   <td>
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3>LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos</font></p>
+    <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, K. Chen, Y. Zhan, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank">IEEE Xplore</a>&emsp;&emsp;
@@ -45,7 +46,7 @@ Selected Publications <font size=3></font>
   </td>
   <td>
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3>Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models</font></p>
+    <p class="pub-p"><font size=3><b>Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models</b></font></p>
     <p class="pub-p"><font size=2>F. Zhang*, <b>Y. Du*</b>, K. Chen, Y. Shao, S. C. Liew <br>in IEEE Transactions on Machine Learning in Communications and Networking, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2407.15335" target="_blank">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10778295" target="_blank">IEEE Xplore</a>&emsp;&emsp;

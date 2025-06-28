@@ -25,8 +25,8 @@ Selected Publications <font size=3></font>
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, S. C. Liew <br>in IEEE Transactions on Vehicular Technology, 2025</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">

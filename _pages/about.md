@@ -19,7 +19,7 @@ Selected Publications <font size=3></font>
 <div class="row border-bottom-1">
   <table border="0" cellspacing="1" border-left="none" border-right="none">
   <tr><td width="300">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
   <td>
   <div class="col align-self-center pub">
@@ -30,7 +30,7 @@ Selected Publications <font size=3></font>
   </div>
   </td></tr>
   <tr><td width="300">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/2.png" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
   <td>
   <div class="col align-self-center pub">
@@ -42,7 +42,7 @@ Selected Publications <font size=3></font>
   </div>
   </td></tr>
   <tr><td width="300">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/3.png" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
   <td>
   <div class="col align-self-center pub">

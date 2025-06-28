@@ -16,12 +16,12 @@ redirect_from:
 Selected Publications <font size=3></font>
 ------
 <font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
-<div class="row border-bottom-1">
-  <table border="0" cellspacing="1" border-left="none" border-right="none">
-  <tr><td width="300">
+<div>
+  <table border="0" style="border-collapse: collapse; border: none;">
+  <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="" width="400"></div>
   </td>
-  <td>
+  <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Reliable Packet Detection in Random Access Networks: Analysis, Benchmark, and Optimization</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>, S. C. Liew <br>in IEEE Transactions on Vehicular Technology, 2025</font></p>

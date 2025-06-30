@@ -13,8 +13,8 @@ redirect_from:
 
 News <font size=3></font>
 ------
+* <font size=3>April 25': <a href="https://www.hisilicon.com/en">Cellular-X</a> is accepted by Mobisys'25.</font>
 * <font size=3>Jan'25: New website online.</font>
-
 
 Selected Publications <font size=3></font>
 ------

@@ -22,6 +22,7 @@ a:hover {
 
 News <font size=3></font>
 ------
+* <font size=3>May 25': <a href="https://www.hisilicon.com/en">LMT++</a> is accepted by IEEE TMI.</font>
 * <font size=3>April 25': <a href="https://www.hisilicon.com/en">Cellular-X</a> is accepted by Mobisys'25.</font>
 * <font size=3>Jan'25: New website online.</font>
 

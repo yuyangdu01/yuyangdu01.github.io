@@ -9,10 +9,10 @@ redirect_from:
 
 <style>
 a {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 </style>
 

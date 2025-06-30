@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;"><font size=3> I received my Ph.D. degree in Information Engineering from <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK), where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor’s degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a>(PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. Currently, I am a Postdoctoral Researcher at Department of Information Engineering, CUHK. Prior to that, I was a visiting scholar at <a href="https://seas.harvard.edu/">Harvard SEAS</a>, and a communication engineer at <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a>.</font></p>
+<p style="text-align: justify;"><font size=3> I received my Ph.D. degree in Information Engineering from <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK), where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor’s degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. Currently, I am a Postdoctoral Researcher at Department of Information Engineering, CUHK. Prior to that, I was a visiting scholar at <a href="https://seas.harvard.edu/">Harvard SEAS</a>, and a communication engineer at <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a>.</font></p>
 
 <p style="text-align: justify;"><font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference acceleration of language models.</font></p>
 
 News <font size=3></font>
 ------
-* <font size=3>The new website is online. Jan-2025</font>
+* <font size=3>Jan'25: New website online.</font>
 
 
 Selected Publications <font size=3></font>

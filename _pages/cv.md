@@ -9,15 +9,14 @@ redirect_from:
 
 Professional Service
 ------
-* <font size=3>Invited journal reviewer for:</font>  
-  + <font size=3>IEEE Transactions on Communications (TCOM),</font>  
-  + <font size=3>IEEE Transactions on Wireless Communications (TWC),</font>  
-  + <font size=3>IEEE Transactions on Vehicular Technology (TVT),</font>
-  + <font size=3>IEEE Communications Magazine (Commun. Mag.),</font>  
-  + <font size=3>IEEE Wireless Communication Letter (WCL),</font>
-  + <font size=3>IEEE  Communication Letter (CL),</font>
-  + <font size=3>ACM Transactions on Internet of Things (TIoT),</font>
-  + <font size=3>Digital Signal Processing (DSP)</font>  
+* <font size=3>Journal Reviewers</font>  
+  + <font size=3>IEEE: TCOM, TWC, TVT, Commun. Mag., CL, WCL
+  + <font size=3>Elsevier：Digital Signal Processing, Ad Hoc Networks, Computers and Electrical Engineering, Telematics and Informatics, Telecommunication Systems</font>
+  + <font size=3>,</font>  
+  + <font size=3>,</font>
+  + <font size=3>,</font>
+  + <font size=3>ACM: TIoT</font>
+  + <font size=3> (DSP)</font>  
 * <font size=3>Invited conference reviewer for:</font>  
   + <font size=3>IEEE International Conference on Communications (ICC),</font>  
   + <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  

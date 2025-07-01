@@ -12,11 +12,7 @@ Professional Service
 * <font size=3>Journal Reviewers</font>  
   + <font size=3>IEEE: TCOM, TWC, TVT, Commun. Mag., CL, WCL
   + <font size=3>Elsevier：Digital Signal Processing, Ad Hoc Networks, Computers and Electrical Engineering, Telematics and Informatics, Telecommunication Systems</font>
-  + <font size=3>,</font>  
-  + <font size=3>,</font>
-  + <font size=3>,</font>
   + <font size=3>ACM: TIoT</font>
-  + <font size=3> (DSP)</font>  
 * <font size=3>Invited conference reviewer for:</font>  
   + <font size=3>IEEE International Conference on Communications (ICC),</font>  
   + <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  

@@ -43,6 +43,8 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/abstract/document/10610603" target="_blank" style="text-decoration: none;">Conference Presentation</a>&emsp;&emsp;
+    
   </div>
   </td></tr>
   

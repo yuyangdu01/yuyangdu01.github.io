@@ -29,22 +29,7 @@ Selected Publications <font size=3></font>
 <font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
 <div>
   <table style="border-collapse: collapse; border: none;">
-    
-  <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/2.png" width="400"></div>
-  </td>
-  <td style="border: none;">
-  <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multiple Specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
-    <p class="pub-p"><font size=2><b>Y. Du</b>*, K. Chen*, Y. Zhan*, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
-    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
-    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/abstract/document/10610603" target="_blank" style="text-decoration: none;">Conference Version</a>&emsp;&emsp;
-    
-  </div>
-  </td></tr>
-  
+
   <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/4.png" width="400"></div>
   </td>
@@ -55,6 +40,20 @@ Selected Publications <font size=3></font>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2504.13190" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://github.com/SeaBreezing/Cellular-X" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://youtube.com/playlist?list=PLi7wIohZ9VLjfbtShawzEk49BKUE11QiU&" target="_blank" style="text-decoration: none;">Demo</a>&emsp;&emsp;
+  </div>
+  </td></tr>
+    
+  <tr><td width="300" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/2.png" width="400"></div>
+  </td>
+  <td style="border: none;">
+  <div class="col align-self-center pub">
+    <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multiple Specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
+    <p class="pub-p"><font size=2><b>Y. Du</b>, K. Chen, Y. Zhan, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://github.com/yuyangdu01/LLM4VQA_CL_TMI" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/abstract/document/10610603" target="_blank" style="text-decoration: none;">Conference Version</a>&emsp;&emsp;
   </div>
   </td></tr>
 

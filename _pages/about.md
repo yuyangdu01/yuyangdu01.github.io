@@ -60,7 +60,7 @@ Selected Publications <font size=3></font>
   </td></tr>
 
   <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/3.png" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/3_new.png" width="400"></div>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">

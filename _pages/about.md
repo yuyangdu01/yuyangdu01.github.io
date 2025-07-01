@@ -57,6 +57,17 @@ Selected Publications <font size=3></font>
   </div>
   </td></tr>
   <tr><td width="300" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/3.png" width="400"></div>
+  </td>
+  <td style="border: none;">
+  <div class="col align-self-center pub">
+    <p class="pub-p"><font size=3><b>Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models</b></font></p>
+    <p class="pub-p"><font size=2>F. Zhang*, <b>Y. Du*</b>, K. Chen, Y. Shao, S. C. Liew <br>in IEEE Transactions on Machine Learning in Communications and Networking, 2025</font></p>
+    <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2407.15335" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
+    <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10778295" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
+  </div>
+  </td></tr>
+  <tr><td width="300" style="border: none;">
   <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/1.png" width="400"></div>
   </td>
   <td style="border: none;">

@@ -35,7 +35,7 @@ Selected Publications <font size=3></font>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
+    <p class="pub-p"><font size=3><b>LMT++: Adaptively Collaborating LLMs with Multiple Specialized Teachers for Continual VQA in Robotic Surgical Videos</b></font></p>
     <p class="pub-p"><font size=2><b>Y. Du</b>*, K. Chen*, Y. Zhan*, C. H. Low, M. Islam, Z. Guo, Y. Jin, G. Chen, P. A. Heng <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;

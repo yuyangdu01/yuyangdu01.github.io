@@ -10,7 +10,7 @@ redirect_from:
 Publication <font size=3></font>
 ------
 **<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^Co-adviced student)</font>
-* <font size=3><b><u>Du, Y.</u></b>, Chen, K., Zhan, Y., Low, C. H., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P. A., "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
+* <font size=3><b><u>Du, Y.</u></b>*, Chen, K.*, Zhan, Y.*, Low, C. H., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P. A., "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
 * <font size=3>Cui, H.*, <b><u>Du, Y.</u></b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
@@ -21,7 +21,7 @@ Publication <font size=3></font>
 * <font size=3>Shao, Y., Liew, S. C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
-* <font size=3>Wang, L.*, Long, X.*., <b><u>Du, Y.</u></b>*, Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
+* <font size=3>Wang, L.*, <b><u>Du, Y.</u></b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
 * <font size=3>Wang, L.*, <b><u>Du, Y.</u></b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." in IEEE ICNC 2025.</font>
 * <font size=3>Zhang, F.*, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." in IEEE/IFIP WiOpt 2024.</font>
 * <font size=3>Chen, K.*, <b><u>Du, Y.</u></b>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." in IEEE ICRA 2024.</font>

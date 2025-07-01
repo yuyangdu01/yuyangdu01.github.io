@@ -9,10 +9,8 @@ redirect_from:
 
 Professional Service
 ------
-* <font size=3>Journal Reviewers</font>
-  + <font size=3>IEEE TCOM, IEEE TWC, IEEE TVT, IEEE Commun. Mag., IEEE CL, IEEE WCL, ACM: TIoT, Digital Signal Processing, Telecommunication Systems</font>
-* <font size=3>Conference Reviewers:</font>  
-  + <font size=3>IEEE ICC, GLOBECOM, ICCC</font>  
+* <font size=3>Journal Reviewers: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE Commun. Mag., IEEE CL, IEEE WCL, ACM: TIoT, Digital Signal Processing, Telecommunication Systems</font>
+* <font size=3>Conference Reviewers: IEEE ICC, GLOBECOM, ICCC</font>  
 
 Teaching
 ------

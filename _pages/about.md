@@ -50,7 +50,7 @@ Selected Publications <font size=3></font>
   <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><b>Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations</b></font></p>
-    <p class="pub-p"><font size=2>L. Wang*, <b>Y. Du*</b>, X. Long*, X. Liu*, K. Chen, S. C. Liew <br>In Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services (Mobisys), 2025</font></p>
+    <p class="pub-p"><font size=2>L. Wang*^, <b>Y. Du*</b>, X. Long*, X. Liu*, K. Chen, S. C. Liew <br>In Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services (Mobisys), 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2504.13190" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://github.com/SeaBreezing/Cellular-X" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://youtube.com/playlist?list=PLi7wIohZ9VLjfbtShawzEk49BKUE11QiU&" target="_blank" style="text-decoration: none;">Demo</a>&emsp;&emsp;

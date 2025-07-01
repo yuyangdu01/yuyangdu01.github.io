@@ -23,7 +23,7 @@ Teaching
 
 Mentorship
 ------
-* <font size=3> PhD Student: Shiqi Xu, Feifan Zhang, Jianfu Wangliu, Qun Yang, Hongwei Cui, Yirun Wang (co-adviced with Prof. Soung Liew)</font>
-* <font size=3> Master Student: Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long (co-adviced with Prof. Soung Liew)</font>
-* <font size=3> Research Assistant: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi (co-adviced with Prof. Soung Liew)</font>
+* <font size=3> PhD Student: Shiqi Xu, Feifan Zhang, Jianfu Wangliu, Qun Yang, Hongwei Cui, Yirun Wang</font>
+* <font size=3> Master Student: Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long</font>
+* <font size=3> Research Assistant: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi</font>
 * <font size=3> Final Year Projects: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>

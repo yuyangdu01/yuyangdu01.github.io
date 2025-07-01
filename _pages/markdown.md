@@ -21,9 +21,9 @@ Publication <font size=3></font>
 * <font size=3>Shao, Y., Liew, S. C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
-* <font size=3>Wang, L.^*, <b><u>Du, Y.</u></b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
-* <font size=3>Wang, L.^*, <b><u>Du, Y.</u></b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." in IEEE ICNC 2025.</font>
-* <font size=3>Zhang, F.^*, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." in IEEE/IFIP WiOpt 2024.</font>
+* <font size=3>Wang, L.*^, <b><u>Du, Y.</u></b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
+* <font size=3>Wang, L.*^, <b><u>Du, Y.</u></b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." in IEEE ICNC 2025.</font>
+* <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." in IEEE/IFIP WiOpt 2024.</font>
 * <font size=3>Chen, K.*, <b><u>Du, Y.</u></b>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." in IEEE ICRA 2024.</font>
 * <font size=3><b><u>Du, Y.</u></b>, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." in IEEE VTC 2024.</font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." in IEEE VTC 2023.</font>

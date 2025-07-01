@@ -23,8 +23,7 @@ Teaching
 
 Mentorship
 ------
-* <font size=3>Jul. 2024 - present, Shiqi Xu, Feifan Zhang, Jianfu Wangliu, Ph.D. students at CUHK (co-adviced with Prof. Soung Liew)</font>
-* <font size=3>Jun. 2024 – present, Yue Zhan, Jingqi Lin, Yining Du, research assistant at CUHK (co-adviced with Prof. Soung Liew)</font>
-* <font size=3>May. 2024 – present, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, master student at CUHK (co-adviced with Prof. Soung Liew)</font>
-* <font size=3>Apr. 2024 – present, Haomin Qi, undergraduate student intern at CUHK (co-adviced with Prof. Soung Liew)</font>
-* <font size=3>Final Year Projects: Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
+* <font size=3> PhD Student @CUHK: Shiqi Xu, Feifan Zhang, Jianfu Wangliu, Qun Yang, Hongwei Cui, Yirun Wang (co-adviced with Prof. Soung Liew)</font>
+* <font size=3> Master Students @CUHK: Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long (co-adviced with Prof. Soung Liew)</font>
+* <font size=3> Research Assistant @CUHK: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi (co-adviced with Prof. Soung Liew)</font>
+* <font size=3> Final Year Projects @CUHK: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (co-adviced with Prof. Soung Liew)</font>

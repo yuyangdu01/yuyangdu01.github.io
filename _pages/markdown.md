@@ -9,15 +9,16 @@ redirect_from:
 
 Publication <font size=3></font>
 ------
-**<font size=3>Journals</font>** <br><font size=1>(* for equal contribution, # for corresponding author)</font>
-* <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
+**<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^Co-adviced student)</font>
+* <font size=3><b><u>Du, Y.</u></b>, Chen, K., Zhan, Y., Low, C. H., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P. A., "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
 * <font size=3>Cui, H.*, <b><u>Du, Y.</u></b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
-* <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." IEEE Transactions on Vehicular Technology (2023).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." Digital Signal Processing (2022).</font>
 * <font size=3><b><u>Du, Y.</u></b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." Digital Signal Processing (2021).</font>
-* <font size=3>Shao, Y., Liew, S.C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
+* <font size=3>Shao, Y., Liew, S. C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
 * <font size=3>Wang, L.*, Long, X.*., <b><u>Du, Y.</u></b>*, Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." ACM MobiSys 2025.</font>

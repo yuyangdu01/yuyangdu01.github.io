@@ -22,6 +22,7 @@ Publication <font size=3></font>
 * <font size=3>Shao, Y., Liew, S. C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
+* <font size=3>Chen, K., <b><u>Du, Y.</u></b>#, Li, J., Cao, H., Guo, M., Dang, X., et al, "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining" in ICCV VisionDocs Workshop 2025.</font>
 * <font size=3>Wang, L.*^, <b><u>Du, Y.</u></b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
 * <font size=3>Wang, L.*^, <b><u>Du, Y.</u></b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." in IEEE ICNC 2025.</font>
 * <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." in IEEE/IFIP WiOpt 2024.</font>
@@ -32,6 +33,5 @@ Publication <font size=3></font>
 
 **<font size=3>Preprints</font>**
 * <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</u></b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
-* <font size=3>Chen, K., Cao, H., Li, J., <b><u>Du, Y.</u></b>#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
 * <font size=3>Chen, K., Li, J., Wang, K., <b><u>Du, Y.</u></b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  
 

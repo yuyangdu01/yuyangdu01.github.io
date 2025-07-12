@@ -10,9 +10,9 @@ redirect_from:
 Publication <font size=3></font>
 ------
 **<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^Co-adviced student)</font>
-* <font size=3><b><u>Du, Y.</u></b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
-* <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
-* <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>* Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>
+* <font size=3><b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
+* <font size=3><b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
+* <font size=3>Zhang, F.*^, <b>Du, Y.</b>* Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>
 * <font size=3>Cui, H.*^, <b><u>Du, Y.</u></b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>

@@ -9,7 +9,7 @@ redirect_from:
 
 Publication <font size=3></font>
 ------
-**<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^Co-adviced student)</font>
+**<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^co-adviced student)</font>
 * <font size=3><b><u>Du, Y.</u></b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
 * <font size=3><b><u>Du, Y.</u></b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
 * <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>* Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>

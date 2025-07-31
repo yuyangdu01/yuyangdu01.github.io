@@ -19,7 +19,7 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3>Jul 25': One paper addressing the OOD problem in image semantic communication with MLLM is accepted by IEEE TMLCN.</font>
+* <font size=3>Aug 25': One paper addressing the OOD problem in image semantic communication with MLLM is accepted by IEEE TMLCN.</font>
 * <font size=3>Jul 25': One paper about <a href="https://openreview.net/forum?id=H57HtksYpC"> multimodal data mining</a> is accepted by ICCV VisionDocs Workshop.</font>
 * <font size=3>May 25': <a href="https://ieeexplore.ieee.org/document/11045720">LMT++</a> is accepted by IEEE TMI.</font>
 * <font size=3>Apr 25': <a href="https://arxiv.org/abs/2504.13190">Cellular-X</a> is accepted by Mobisys'25.</font>

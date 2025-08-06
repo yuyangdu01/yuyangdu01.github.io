@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-Professional Service
+Reviewer
 ------
 * <font size=3>Journal Reviewer:</font>  
   + <font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font>  

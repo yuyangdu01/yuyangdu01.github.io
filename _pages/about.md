@@ -28,7 +28,7 @@ News <font size=3></font>
 
 Selected Publications <font size=3></font>
 ------
-<font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
+<font size=2>* Equal contribution, # Corresponding author, ^ Mentee</font>
 <div>
   <table style="border-collapse: collapse; border: none;">
 

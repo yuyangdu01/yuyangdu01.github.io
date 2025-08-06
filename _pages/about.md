@@ -20,7 +20,7 @@ a {
 News <font size=3></font>
 ------
 * <font size=3>Aug 25': One paper accepted by <a href="https://ieeexplore.ieee.org/document/11113346/"> IEEE TMLCN.</a>.</font>
-* <font size=3>Jul 25': One paper about <a href="https://openreview.net/forum?id=H57HtksYpC"> multimodal data mining</a> is accepted by ICCV VisionDocs Workshop.</font>
+* <font size=3>Jul 25': One paper accepted by <a href="https://openreview.net/forum?id=H57HtksYpC">ICCV VisionDocs Workshop</a>.</font>
 * <font size=3>May 25': <a href="https://ieeexplore.ieee.org/document/11045720">LMT++</a> is accepted by IEEE TMI.</font>
 * <font size=3>Apr 25': <a href="https://arxiv.org/abs/2504.13190">Cellular-X</a> is accepted by Mobisys'25.</font>
 * <font size=3>Feb 25': One paper about <a href="https://ieeexplore.ieee.org/document/10902223">reliable packet detection in random access</a> is accepted by IEEE TVT.</font>

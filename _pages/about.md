@@ -22,7 +22,7 @@ News <font size=3></font>
 * <font size=3>2025-08: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11113346/"> IEEE TMLCN.</a>.</font>
 * <font size=3>2025-07: One paper accepted by <a href="https://openreview.net/forum?id=H57HtksYpC">ICCV VisionDocs Workshop</a>.</font>
 * <font size=3>2025-05: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>
-* <font size=3>2025-04: <a href="https://arxiv.org/abs/2504.13190">Cellular-X</a> is accepted by Mobisys'25.</font>
+* <font size=3>2025-04: One paper accepted by <a href="https://arxiv.org/abs/2504.13190">Mobisys'25</a>.</font>
 * <font size=3>2025-02: One paper about <a href="https://ieeexplore.ieee.org/document/10902223">reliable packet detection in random access</a> is accepted by IEEE TVT.</font>
 * <font size=3>2025-01: New website online.</font>
 

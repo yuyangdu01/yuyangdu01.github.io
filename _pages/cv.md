@@ -23,13 +23,11 @@ Professional Service
   + <font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font>
   + <font size=3>IEEE  Communication Letter (IEEE CL),</font>
   + <font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font>
-  + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ，...
-  Signal Processing (SP)</font>
-  + <font size=3>Digital Signal Processing (DSP)</font>
-* <font size=3>Invited conference reviewer for:</font>  
+  + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ
+* <font size=3>Conference Reviewers:</font>  
   + <font size=3>IEEE International Conference on Communications (ICC),</font>  
   + <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  
-  + <font size=3>International Conference on Communications in China (ICCC)</font>  
+  + <font size=3>International Conference on Communications in China (ICCC)</font>
 
 Teaching
 ------

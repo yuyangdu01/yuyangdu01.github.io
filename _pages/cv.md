@@ -11,7 +11,7 @@ Reviewer
 ------
 <ul>
   <li><font size=3>Journal Reviewer:</font></li>
-    <ul style="margin-left: -20px;">
+    <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font></li>
         <li><font size=3>IEEE Transactions on Communications (IEEE TCOM),</font></li>

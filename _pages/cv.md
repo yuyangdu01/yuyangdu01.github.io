@@ -9,21 +9,33 @@ redirect_from:
 
 Reviewer
 ------
-* <font size=3>Journal Reviewer:</font>  
-  + <font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font>  
-  + <font size=3>IEEE Transactions on Communications (IEEE TCOM),</font>  
-  + <font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font>
-  + <font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font>
-  + <font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font>
-  + <font size=3>IEEE  Communication Letter (IEEE CL),</font>
-  + <font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font>
-  + <font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font>
-  + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ
-* <font size=3>Conference Reviewers:</font>  
-  *
-    * <font size=3>IEEE International Conference on Communications (ICC),</font>  
-    * <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  
-    * <font size=3>International Conference on Communications in China (ICCC)</font>
+<ul>
+  <li><font size=3>Journal Reviewer:</font></li>
+    <ul>
+      <ul>
+        <li><font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font></li>
+        <li><font size=3>IEEE Transactions on Communications (IEEE TCOM),</font></li>
+        <li><font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font></li>
+        <li><font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font></li>
+        <li><font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font></li>
+        <li><font size=3>IEEE  Communication Letter (IEEE CL),</font></li>
+        <li><font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font></li>
+        <li><font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font></li>
+        <li><font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ</li>
+      </ul>
+    </ul>
+</ul>
+
+<ul>
+  <li><font size=3>Conference Reviewers:</font></li>
+    <ul>
+      <ul>
+        <li><font size=3>IEEE International Conference on Communications (ICC),</font></li>
+        <li>IEEE Conference on Global Communications (GLOBECOM),</font></li>
+        <li><font size=3>International Conference on Communications in China (ICCC)</font></li>
+      </ul>
+    </ul>
+</ul>
 
 Teaching
 ------

@@ -15,9 +15,9 @@ Professional Service
   + <font size=3>IEEE Transactions on Communications (IEEE TCOM),</font>  
   + <font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font>
   + <font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font>
-  + <font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font>  
-  + <font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font>
+  + <font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font>
   + <font size=3>IEEE  Communication Letter (IEEE CL),</font>
+  + <font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font>
   + <font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font>
   + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ
 * <font size=3>Conference Reviewers:</font>  

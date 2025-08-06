@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 List of Publications <font size=3></font>
-
+<font size=1>* Equal contribution, # Corresponding author, ^ Mentee</font>
 ------
 **<font size=3>Journals</font>** <br><font size=1>(*equal contribution, #corresponding author, ^mentee)</font>
 * <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>

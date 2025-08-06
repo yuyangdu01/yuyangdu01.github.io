@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "&emsp;Yuyang Du's Homepage" #&emsp;&emsp;&emsp;&emsp;
+title                    : "Yuyang Du's Homepage" #&emsp;
 title_separator          : #"-"
 name                     : &name "Yuyang Du"
 description              : &description "personal description"

@@ -13,13 +13,13 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting student in <a href="https://seas.harvard.edu/">Harvard SEAS</a>, hosted by Prof. Prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu</a>, and a communication engineer in <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a>.</font></p>
+<p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting student in <a href="https://seas.harvard.edu/">Harvard SEAS</a>, hosted by Prof. Prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu</a>, and a communication engineer in <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a> before starting my PhD.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems.</font></p>
+<p style="text-align: justify;"><font size=3>My research interests include RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems.</font></p>
 
 News <font size=3></font>
 ------
-* <font size=3>Aug 25': One paper addressing the OOD problem in image semantic communication with MLLM is accepted by IEEE TMLCN.</font>
+* <font size=3>Aug 25': One paper accepted by <a href="https://ieeexplore.ieee.org/document/11113346/"> IEEE TMLCN.</a>.</font>
 * <font size=3>Jul 25': One paper about <a href="https://openreview.net/forum?id=H57HtksYpC"> multimodal data mining</a> is accepted by ICCV VisionDocs Workshop.</font>
 * <font size=3>May 25': <a href="https://ieeexplore.ieee.org/document/11045720">LMT++</a> is accepted by IEEE TMI.</font>
 * <font size=3>Apr 25': <a href="https://arxiv.org/abs/2504.13190">Cellular-X</a> is accepted by Mobisys'25.</font>

@@ -25,7 +25,6 @@ Reviewer
       </ul>
     </ul>
 </ul>
-
 <ul>
   <li><font size=3>Conference Reviewers:</font></li>
     <ul>
@@ -36,7 +35,7 @@ Reviewer
       </ul>
     </ul>
 </ul>
-
+          
 Teaching
 ------
 * <font size=3>Teaching Assistant, Linear Algebra (ENGG1120), CUHK, 2021 Spring</font>

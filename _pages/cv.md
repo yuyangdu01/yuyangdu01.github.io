@@ -21,20 +21,18 @@ Reviewer
         <li><font size=3>IEEE  Communication Letter (IEEE CL),</font></li>
         <li><font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font></li>
         <li><font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font></li>
-        <li><font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ</li>
+        <li><font size=3>Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ</font></li>
       </ul>
     </ul>
-</ul>
-<ul>
   <li><font size=3>Conference Reviewers:</font></li>
     <ul>
       <ul>
         <li><font size=3>IEEE International Conference on Communications (ICC),</font></li>
-        <li>IEEE Conference on Global Communications (GLOBECOM),</font></li>
+        <li><font size=3>IEEE Conference on Global Communications (GLOBECOM),</font></li>
         <li><font size=3>International Conference on Communications in China (ICCC)</font></li>
       </ul>
     </ul>
-</ul>
+</ul>  
           
 Teaching
 ------

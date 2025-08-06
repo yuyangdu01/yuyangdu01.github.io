@@ -11,8 +11,8 @@ Reviewer
 ------
 <ul>
   <li><font size=3>Journal Reviewer:</font></li>
-    <ul>
-      <ul>
+    <ul style="margin-left: -20px;">
+      <ul style="margin-left: 0px;">
         <li><font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font></li>
         <li><font size=3>IEEE Transactions on Communications (IEEE TCOM),</font></li>
         <li><font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font></li>
@@ -25,7 +25,7 @@ Reviewer
       </ul>
     </ul>
   <li><font size=3>Conference Reviewers:</font></li>
-    <ul style="margin-left: -20px;">
+    <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3>IEEE International Conference on Communications (ICC),</font></li>
         <li><font size=3>IEEE Conference on Global Communications (GLOBECOM),</font></li>

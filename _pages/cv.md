@@ -20,9 +20,10 @@ Reviewer
   + <font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font>
   + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ
 * <font size=3>Conference Reviewers:</font>  
-  + <font size=3>IEEE International Conference on Communications (ICC),</font>  
-  + <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  
-  + <font size=3>International Conference on Communications in China (ICCC)</font>
+  *
+    * <font size=3>IEEE International Conference on Communications (ICC),</font>  
+    * <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  
+    * <font size=3>International Conference on Communications in China (ICCC)</font>
 
 Teaching
 ------

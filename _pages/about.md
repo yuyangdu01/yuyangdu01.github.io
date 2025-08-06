@@ -15,7 +15,7 @@ a {
 
 <p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting student in <a href="https://seas.harvard.edu/">Harvard SEAS</a>, hosted by Prof. Prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu</a>, and a communication engineer in <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a> before starting my PhD.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research interests include RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems.</font></p>
+<p style="text-align: justify;"><font size=3>My research interests include URLLC and industrial systems, generative AIs for communication networks, and LLM inference acceleration.</font></p>
 
 News <font size=3></font>
 ------

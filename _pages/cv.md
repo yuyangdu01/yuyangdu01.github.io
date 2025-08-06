@@ -10,7 +10,26 @@ redirect_from:
 Professional Service
 ------
 * <font size=3>Journal Reviewers: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE Commun. Mag., IEEE CL, IEEE WCL, ACM: TIoT, Digital Signal Processing, Signal Processing, Telecommunication Systems</font>
-* <font size=3>Conference Reviewers: IEEE ICC, GLOBECOM, ICCC</font>  
+* <font size=3>Conference Reviewers: IEEE ICC, GLOBECOM, ICCC</font>
+
+Professional Service
+------
+* <font size=3>Journal Reviewer:</font>  
+  + <font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font>  
+  + <font size=3>IEEE Transactions on Communications (IEEE TCOM),</font>  
+  + <font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font>
+  + <font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font>
+  + <font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font>  
+  + <font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font>
+  + <font size=3>IEEE  Communication Letter (IEEE CL),</font>
+  + <font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font>
+  + <font size=3> Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ，...
+  Signal Processing (SP)</font>
+  + <font size=3>Digital Signal Processing (DSP)</font>
+* <font size=3>Invited conference reviewer for:</font>  
+  + <font size=3>IEEE International Conference on Communications (ICC),</font>  
+  + <font size=3>IEEE Conference on Global Communications (GLOBECOM),</font>  
+  + <font size=3>International Conference on Communications in China (ICCC)</font>  
 
 Teaching
 ------

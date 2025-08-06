@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Professional Service
-------
-* <font size=3>Journal Reviewers: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE Commun. Mag., IEEE CL, IEEE WCL, ACM: TIoT, Digital Signal Processing, Signal Processing, Telecommunication Systems</font>
-* <font size=3>Conference Reviewers: IEEE ICC, GLOBECOM, ICCC</font>
 
 Professional Service
 ------

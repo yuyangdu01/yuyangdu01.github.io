@@ -19,6 +19,7 @@ a {
 
 News <font size=3></font>
 ------
+* <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are online.</font>
 * <font size=3><b>2025-08</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11113346/"> IEEE TMLCN</a>.</font>
 * <font size=3><b>2025-07</b>: One paper accepted by <a href="https://openreview.net/forum?id=H57HtksYpC">ICCV VisionDocs Workshop</a>.</font>
 * <font size=3><b>2025-05</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>

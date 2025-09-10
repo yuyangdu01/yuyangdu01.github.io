@@ -19,8 +19,8 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3><b>2025-09</b>: <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> and a paper about <a href="https://arxiv.org/abs/2509.06119"> industrial robotic network</a> are available online.</font>
-* <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a>, <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are available online.</font>
+* <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119"> industrial robotic network</a> are available online.</font>
+* <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are available online.</font>
 * <font size=3><b>2025-08</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11113346/"> IEEE TMLCN</a>.</font>
 * <font size=3><b>2025-07</b>: One paper accepted by <a href="https://openreview.net/forum?id=H57HtksYpC">ICCV</a>.</font>
 * <font size=3><b>2025-05</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>

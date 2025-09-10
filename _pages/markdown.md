@@ -32,7 +32,7 @@ List of Publications <font size=3></font><font size=1>(<u>mentee</u>, *equal con
 * <font size=3><b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." in IEEE UEMCON 2019.</font>
 
 **<font size=3>Preprints</font>**
-
+* <font size=3><u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
 * <font size=3><u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." arXiv:2509.01199 (2025).</font>
 * <font size=3><b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." arXiv:2508.13920 (2025).</font>
 * <font size=3><u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." arXiv:2507.15664 (2025).</font>

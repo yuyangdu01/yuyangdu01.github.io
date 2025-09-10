@@ -26,8 +26,8 @@ News <font size=3></font>
 * <font size=3><b>2025-05</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>
 * <font size=3><b>2025-04</b>: One paper accepted by <a href="https://arxiv.org/abs/2504.13190">Mobisys'25</a>.</font>
 * <font size=3><b>2025-03</b>: One paper about industrial IoT reliability is accepted by <a href="https://ieeexplore.ieee.org/document/10902223">IEEE TVT</a>.</font>
-* <font size=3><b>2025-02</b>: <a href="https://ieeexplore.ieee.org/abstract/document/10993716">RaC</a>, a SFT framework for networking agents, is accepted by IEEE ICNC.</font>
-* <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO-based alignment framework for ethical problems, is available on Arxiv.</font>
+* <font size=3><b>2025-02</b>: <a href="https://ieeexplore.ieee.org/abstract/document/10993716">RaC</a>, a SFT framework for networking agents, is accepted by **IEEE ICNC**.</font>
+* <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO-based alignment framework for ethical problems, is available on **Arxiv**.</font>
 
 Selected Publications <font size=3></font>
 ------

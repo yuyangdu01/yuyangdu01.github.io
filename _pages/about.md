@@ -13,7 +13,7 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting student in <a href="https://seas.harvard.edu/">Harvard SEAS</a>, and my host is Prof. Prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu</a>. Before starting my PhD, I worked as an engineer in <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a>.</font></p>
+<p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree in Electronic Engineering from <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting student at <a href="https://seas.harvard.edu/">Harvard SEAS</a> in 2024-2025, and my host is Prof. Prof. <a href="http://minlanyu.seas.harvard.edu/">Minlan Yu</a>. Before that, I was an research engineer in <a href="https://www.hisilicon.com/en">Hisilicon, Huawei 2012 Lab</a>.</font></p>
 
 <p style="text-align: justify;"><font size=3>My research interests include URLLC in industrial automations, generative AIs for communication networks, and LLM inference acceleration.</font></p>
 
@@ -26,7 +26,7 @@ News <font size=3></font>
 * <font size=3><b>2025-05</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>
 * <font size=3><b>2025-04</b>: One paper accepted by <a href="https://arxiv.org/abs/2504.13190">Mobisys'25</a>.</font>
 * <font size=3><b>2025-03</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/10902223">IEEE TVT</a>.</font>
-* <font size=3><b>2025-09</b>: <a href="https://arxiv.org/abs/2501.13952"> LibraAlign </a>, a DPO-based alignment framework for ethical problems, is available online.</font>
+* <font size=3><b>2025-09</b>: <a href="https://arxiv.org/abs/2501.13952"> LibraAlign</a>, a DPO-based alignment framework for ethical problems, is available online.</font>
 * <font size=3><b>2025-01</b>: New website online.</font>
 
 Selected Publications <font size=3></font>

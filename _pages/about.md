@@ -25,7 +25,8 @@ News <font size=3></font>
 * <font size=3><b>2025-07</b>: One paper accepted by <a href="https://openreview.net/forum?id=H57HtksYpC">ICCV</a>.</font>
 * <font size=3><b>2025-05</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/11045720">IEEE TMI</a>.</font>
 * <font size=3><b>2025-04</b>: One paper accepted by <a href="https://arxiv.org/abs/2504.13190">Mobisys'25</a>.</font>
-* <font size=3><b>2025-02</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/10902223">IEEE TVT</a>.</font>
+* <font size=3><b>2025-03</b>: One paper accepted by <a href="https://ieeexplore.ieee.org/document/10902223">IEEE TVT</a>.</font>
+* <font size=3><b>2025-09</b>: <a href="https://arxiv.org/abs/2501.13952"> LibraAlign </a>, a DPO-based alignment framework for ethical problem is available online.</font>
 * <font size=3><b>2025-01</b>: New website online.</font>
 
 Selected Publications <font size=3></font>

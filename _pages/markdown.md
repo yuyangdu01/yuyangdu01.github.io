@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-List of Publications <font size=3></font><font size=1>(*equal contribution, #corresponding author, ^co-adviced student)</font>
+List of Publications <font size=3></font><font size=1>(*equal contribution, #corresponding author/project lead, <u>mentee</b>)</font>
 ------
 **<font size=3>Journals</font>** <br>
 * <font size=3>Zhang, F.*^, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>

@@ -33,6 +33,6 @@ List of Publications <font size=3></font><font size=1>(<u>mentee</u>, *equal con
 
 **<font size=3>Preprints</font>**
 * <font size=3><u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." arXiv:2507.15664 (2025).</font>
-* <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</u></b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
-* <font size=3>Chen, K., Li, J., Wang, K., <b><u>Du, Y.</u></b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  
+* <font size=3><u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
+* <font size=3><u>Chen, K.</u>, Li, J., Wang, K., <b><u>Du, Y.</u></b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  
 

@@ -13,7 +13,7 @@ List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Con
 * <font size=3><u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." IEEE Transactions on Machine Learning in Communications and Networking (2025).</font>
 * <font size=3><b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." IEEE Transactions on Medical Imaging (2025).</font>
 * <font size=3><b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
-* <font size=3><u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
+* <font size=3>Cui, H.*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
 * <font size=3><b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
 * <font size=3><b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>
 * <font size=3><b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." IEEE Transactions on Vehicular Technology (2023).</font>
@@ -32,7 +32,7 @@ List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Con
 * <font size=3><b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." in IEEE UEMCON 2019.</font>
 
 **<font size=3>Preprints</font>**
-* <font size=3><u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
+* <font size=3><u>Xu, S.</u>, Zhang, L., <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
 * <font size=3><u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." arXiv:2509.07436 (2025).</font>
 * <font size=3><u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." arXiv:2509.01199 (2025).</font>
 * <font size=3><b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." arXiv:2508.13920 (2025).</font>

@@ -27,9 +27,8 @@ Reviewer
   <li><font size=3>Conference Reviewers:</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
-        <li><font size=3> Conference in Communications and Networking: ICC, GLOBECOM, ICCC</font></li>
-        <li><font size=3>IEEE Conference on Global Communications (GLOBECOM),</font></li>
-        <li><font size=3>International Conference on Communications in China (ICCC)</font></li>
+        <li><font size=3> Communications and Networking Conferences: ICC, GLOBECOM, ICCC</font></li>
+        <li><font size=3> AI Conferences: NeurIPS, AAAI, ICRA</font></li>
       </ul>
     </ul>
 </ul>  

@@ -48,3 +48,11 @@ Mentorship
 * <font size=3> <b>Master Student</b>: Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long</font>
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi</font>
 * <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>
+
+Funding Participation
+------
+* <font size=3> Co-I, “Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery”, Mainland-Hong Kong Technology Cooperation Funding Scheme, Innovation and Technology Commission, 3.3m HKD, 2026-2028, Pending.</font>
+* <font size=3> Co-I, “SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Wireless Networks, and Blockchain”, Mainland-Hong Kong Technology Cooperation Funding Scheme, Innovation and Technology Commission, 2m HKD, 2026-2028, Pending.</font>
+* <font size=3> Co-I, “Multimodal LLM-Driven Semantic Communication for Vehicular Networks”, Innovation and Technology Support Program, Innovation and Technology Commission, 1.4m HKD, 2025-2027, Pending.</font>
+* <font size=3> Co-I, “Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT”, Shenzhen-Hong Kong-Macao Science and Technology Collaboration Fund (Type C), Science, Technology and Innovation Commission of Shenzhen Municipality, 3.3m HKD, 2024-2026, Approved.</font>
+* <font size=3> •	Key Member, “An Academia-Industry Collaboration for Systematic LLM Education: Hands-on Experiences and Co-Training Opportunities”, Funding Scheme for Promoting Innovative Technology in Education, University Grants Committee, 274k HKD, 2024-2025, Approved.</font>

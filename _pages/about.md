@@ -27,4 +27,4 @@ News <font size=3></font>
 * <font size=3><b>2025-04</b>: <a href="https://arxiv.org/abs/2504.13190">Cellular-X</a>, an LLM agent for cellular network, is accepted by <b>Mobisys'25</b>.</font>
 * <font size=3><b>2025-03</b>: One paper about <a href="https://ieeexplore.ieee.org/document/10902223">Industrial IoT Reliability</a> is accepted by <b>IEEE TVT</b>.</font>
 * <font size=3><b>2025-02</b>: <a href="https://ieeexplore.ieee.org/abstract/document/10993716">RaC</a>, a SFT framework for networking agents, is accepted by <b>ICNC'25</b>.</font>
-* <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a Direct Preference Optimization (DPO) framework for ethical alignment, is available on <b>Arxiv</b>.</font>
+* <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework for ethical alignment, is available on <b>Arxiv</b>.</font>

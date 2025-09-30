@@ -19,7 +19,7 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25 Workshop</b>, <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on <b>Arxiv</b>.</font>
+* <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25 Workshop</b>; <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119">Industrial Robotic Network</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-07</b>: One paper about <a href="https://ieeexplore.ieee.org/document/11113346/">Generative Semantic Communication</a> accepted by <b>IEEE TMLCN</b>.</font>

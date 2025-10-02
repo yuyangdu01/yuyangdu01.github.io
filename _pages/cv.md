@@ -45,7 +45,7 @@ Teaching
 
 Mentorship
 ------
-* <font size=3> <b>PhD Student</b>: Shiqi Xu, Feifan Zhang, Liujianfu Wang, Qun Yang, Yirun Wang</font>
+* <font size=3> <b>PhD Student</b>: Shiqi Xu, Feifan Zhang, Liujianfu Wang, Qun Yang, Yirun Wang, Xilin Dang(CSE), Yiyi Zhang(CSE)</font>
 * <font size=3> <b>Master Student</b>: Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long</font>
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi</font>
 * <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>

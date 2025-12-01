@@ -15,10 +15,9 @@ a {
 
 <p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree from School of Electronics Engineering and Computer Science (EECS), <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting scholar at <a href="https://seas.harvard.edu/">Harvard</a> in 2024-2025, and I was an research engineer at <a href="https://www.hisilicon.com/en">Hisilicon, Huawei</a> in 2019-2020.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research enables intelligence and connectivity in mobile edge systems. My toolkit includes AI, wireless communication, networking, and robotics. Recently, I have been working on: 1) cost-effective generative AI for resource-constrained mobile devices, and 2) reliable, task-oriented communication for mobile applications. The ultimate goal of my research is to develop integrated, intelligent edge systems for dynamic, resource-constrained environments. As a proof of concept, I develop intelligent manufacturing systems to validate their efficiency and practical applicability in real-world scenarios.
+<p style="text-align: justify;"><font size=3>My research enables intelligence and connectivity in mobile edge systems. My work addresses two key challenges: 1) cost-effective generative AI for resource-constrained devices, and 2) reliable, low-latency communication for mobile applications.</font></p>
 
-
-</font></p>
+<p style="text-align: justify;"><font size=3>Recently, I have focused on efficient LLM inference and task-oriented communication for intelligent manufacturing, which serves as a proof of concept for the feasibility and efficiency of mobile edge intelligence in dynamic, resource-constrained environments. My toolkit for building such systems includes AI, wireless communication, networking, and robotics.</font></p>
 
 News <font size=3></font>
 ------

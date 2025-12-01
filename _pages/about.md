@@ -15,11 +15,14 @@ a {
 
 <p style="text-align: justify;"><font size=3> I am a Postdoctoral Fellow in Department of Information Engineering, <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK). I received my Ph.D. degree in Information Engineering from the same institution, where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor's degree from School of Electronics Engineering and Computer Science (EECS), <a href="https://www.pku.edu.cn/">Peking University</a> (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. I was a visiting scholar at <a href="https://seas.harvard.edu/">Harvard</a> in 2024-2025, and I was an research engineer at <a href="https://www.hisilicon.com/en">Hisilicon, Huawei</a> in 2019-2020.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research interests lies in the application of generative AIs in industrial automations and communication networks, with a focus on agent cooperation, model post-training and inference acceleration.</font></p>
+<p style="text-align: justify;"><font size=3>My research enables intelligence and connectivity in mobile edge systems. My toolkit includes AI, wireless communication, networking, and robotics. Recently, I have been working on: 1) cost-effective generative AI for resource-constrained mobile devices, and 2) reliable, task-oriented communication for mobile applications. The ultimate goal of my research is to develop integrated, intelligent edge systems for dynamic, resource-constrained environments. As a proof of concept, I develop intelligent manufacturing systems to validate their efficiency and practical applicability in real-world scenarios.
+
+
+</font></p>
 
 News <font size=3></font>
 ------
-* <font size=3><b>2025-11</b>: MoE inference framework <a href="https://github.com/1155157110/DMoE/blob/main/pub/OD-MoE.pdf">OD-MoE</a> is available online.</font>
+* <font size=3><b>2025-11</b>: Distributed edge MoE inference framework <a href="https://github.com/1155157110/DMoE/blob/main/pub/OD-MoE.pdf">OD-MoE</a> is available online.</font>
 * <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25 Workshop</b>; <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119">Industrial Robotic Network</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are available on <b>Arxiv</b>.</font>

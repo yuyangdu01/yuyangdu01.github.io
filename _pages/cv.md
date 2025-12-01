@@ -50,7 +50,7 @@ Mentorship
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Jingqi Lin, Yining Du, Haomin Qi</font>
 * <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>
 
-Funding Participation
+Funding
 ------
 * <font size=3> <b>Key Member</b>, “Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems”, GRF, UGC, <i><b>1.3m HKD</b></i>, 2026-2029, <u>Pending</u>.</font>
 * <font size=3> <b>Co-I</b>, “Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery”, MHKTCFS, ITC, <i><b>3.3m HKD</b></i>, 2026-2028, <u>Pending</u>.</font>

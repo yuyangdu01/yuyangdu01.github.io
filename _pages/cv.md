@@ -24,7 +24,8 @@ Reviewer
         <li><font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font></li>
         <li><font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font></li>
         <li><font size=3>ACM Transactions on Knowledge Discovery from Data (TKDD),</font></li>
-        <li><font size=3>Elsevier SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ, AE, EAAI, COMNET, NEUNET, FGCS</font></li>
+        <li><font size=3>Nature Communications, Scientific Reports</font></li>
+        <li><font size=3>Elsevier: SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ, AE, EAAI, COMNET, NEUNET, FGCS</font></li>
       </ul>
     </ul>
   <li><font size=3>Conference Reviewers:</font></li>

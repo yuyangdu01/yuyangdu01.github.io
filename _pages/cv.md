@@ -18,6 +18,7 @@ Reviewer
         <li><font size=3>IEEE Transactions on Communications (IEEE TCOM),</font></li>
         <li><font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font></li>
         <li><font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font></li>
+        <li><font size=3>IEEE Transactions on Human-Machine Systems (IEEE THMS),</font></li>
         <li><font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font></li>
         <li><font size=3>IEEE  Communication Letter (IEEE CL),</font></li>
         <li><font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font></li>

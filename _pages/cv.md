@@ -13,17 +13,8 @@ Reviewer
   <li><font size=3>Journal Reviewer:</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
-        <li><font size=3>IEEE Transactions on Industrial Informatics (IEEE TII),</font></li>
-        <li><font size=3>IEEE Transactions on Signal Processing (IEEE TSP),</font></li>
-        <li><font size=3>IEEE Transactions on Communications (IEEE TCOM),</font></li>
-        <li><font size=3>IEEE Transactions on Wireless Communications (IEEE TWC),</font></li>
-        <li><font size=3>IEEE Transactions on Vehicular Technology (IEEE TVT),</font></li>
-        <li><font size=3>IEEE Transactions on Human-Machine Systems (IEEE THMS),</font></li>
-        <li><font size=3>IEEE Communications Magazine (IEEE Commun. Mag.),</font></li>
-        <li><font size=3>IEEE  Communication Letter (IEEE CL),</font></li>
-        <li><font size=3>IEEE Wireless Communication Letter (IEEE WCL),</font></li>
-        <li><font size=3>ACM Transactions on Internet of Things (ACM TIoT),</font></li>
-        <li><font size=3>ACM Transactions on Knowledge Discovery from Data (ACM TKDD),</font></li>
+        <li><font size=3>IEEE TII/TSP/TCOM/TWC/TVT/THMS/CommunMag/CL/WCL/Access</font></li>
+        <li><font size=3>ACM TIoT/TKDD</font></li>
         <li><font size=3>Springer Nature: Nature Communications, Scientific Reports</font></li>
         <li><font size=3>Elsevier: SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ, AE, EAAI, COMNET, NEUNET, FGCS</font></li>
       </ul>

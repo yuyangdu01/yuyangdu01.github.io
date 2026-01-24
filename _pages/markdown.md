@@ -22,6 +22,7 @@ List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Con
 * <font size=3>Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
+* <font size=3><u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." in IEEE ISQED 2026.</font>
 * <font size=3><u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." in IEEE ICNC 2026.</font>
 * <font size=3><u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." in NeurIPS SEA Workshop 2025.</font>
 * <font size=3><u>Chen, K.</u>, <b>Du, Y.</b>#, Li, J., Cao, H., Guo, M., Dang, X., et al, "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining" in ICCV VisionDocs Workshop 2025.</font>
@@ -38,7 +39,6 @@ List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Con
 * <font size=3>Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." arXiv:2509.24816 (2025).</font>
 * <font size=3><u>Xu, S.</u>, Zhang, L., <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
 * <font size=3><b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." arXiv:2508.13920 (2025).</font>
-* <font size=3><u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." arXiv:2507.15664 (2025).</font>
 * <font size=3><u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
 * <font size=3><u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  
 

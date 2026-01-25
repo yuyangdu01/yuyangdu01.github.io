@@ -23,7 +23,7 @@ Reviewer
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3> Communications and Networking Conferences: ICC, GLOBECOM, WCNC, ICCC</font></li>
-        <li><font size=3> AI Conferences: NeurIPS, AAAI, ICRA</font></li>
+        <li><font size=3> AI/Robotic Conferences: NeurIPS, AAAI, ICRA</font></li>
       </ul>
     </ul>
 </ul>  

@@ -44,3 +44,7 @@ Publications <font size=3></font>
 * <font size=3>[A2] <u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." &nbsp;<a href="https://arxiv.org/abs/2501.13952">https://arxiv.org/abs/2501.13952</a></font>
 * <font size=3>[A1] <u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." &nbsp;<a href="https://arxiv.org/abs/2311.10776">https://arxiv.org/abs/2311.10776</a></font>  
 
+**<font size=3>Patent</font>**  
+* <font size=3>[P2] Liew, S. C., Zhang, F., <b>Du, Y.</b>, Chen, K. "An Image Semantic Communication Method Based on Multimodal Large Language Models", CN Application No: 202411403556.5</font>
+* <font size=3>[P1] Wang, L., <b>Du, Y.</b>, Chen, K., Liew, S. C." A Fine-Tuning Method for Networking Large Language Models", CN Application No: 202510011166.1</font>
+

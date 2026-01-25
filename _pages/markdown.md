@@ -35,8 +35,8 @@ List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Con
 
 **<font size=3>Preprints</font>**
 * <font size=3><u>Wang, L.</u>*, <b>Du, Y.</b>*#, Pan, Y., Liew, S. C.#, Chen, K., Liu, J., "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference." arXiv:2512.03927 (2025).</font>
-* <font size=3>Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." arXiv:2509.24816 (2025).</font>
 * <font size=3><u>Xu, S.</u>, Zhang, L., <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
+* <font size=3>Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." arXiv:2509.24816 (2025).</font>
 * <font size=3><b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." arXiv:2508.13920 (2025).</font>
 * <font size=3><u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
 * <font size=3><u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  

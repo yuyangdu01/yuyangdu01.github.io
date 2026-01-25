@@ -9,7 +9,7 @@ redirect_from:
 
 Publications  
 ------
-<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a> <br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font> <br> 
+<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a> <br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font>  
 <font size=3><b>Journals</b></font>
 * <font size=3><span style="color: #3a7c22;">[J10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
 * <font size=3><span style="color: #3a7c22;">[J9]</span> <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>
@@ -22,7 +22,7 @@ Publications
 * <font size=3><span style="color: #3a7c22;">[J2]</span> <b>Du, Y.</b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." &nbsp;Digital Signal Processing, 2021.</font>
 * <font size=3><span style="color: #3a7c22;">[J1]</span> Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." &nbsp;IEEE Transactions on Communications, 2021.</font>
 
-**<font size=3>Conferences</font>**
+<font size=3><b>Conferences</b></font>
 * <font size=3><span style="color: #0f4761;">[C11]</span> <u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." &nbsp;IEEE ISQED 2026.</font>
 * <font size=3><span style="color: #0f4761;">[C10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." &nbsp;IEEE ICNC 2026.</font>
 * <font size=3><span style="color: #0f4761;">[C9]</span> <u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." &nbsp;NeurIPS SEA Workshop 2025.</font>
@@ -35,7 +35,7 @@ Publications
 * <font size=3><span style="color: #0f4761;">[C2]</span> <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." &nbsp;IEEE VTC 2023.</font>
 * <font size=3><span style="color: #0f4761;">[C1]</span> <b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." &nbsp;IEEE UEMCON 2019.</font>
 
-**<font size=3>Arxiv Preprints</font>**
+<font size=3><b>Arxiv Preprints</b></font>**
 * <font size=3><span style="color: #bf4d14;">[A6]</span> <u>Wang, L.</u>*, <b>Du, Y.</b>*#, Pan, Y., Liew, S. C.#, Chen, K., Liu, J., "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference." &nbsp;<a href="https://arxiv.org/abs/2512.03927">https://arxiv.org/abs/2512.03927</a></font>
 * <font size=3><span style="color: #bf4d14;">[A5]</span> <u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." &nbsp;<a href="https://arxiv.org/abs/2509.06119">https://arxiv.org/abs/2509.06119</a></font>
 * <font size=3><span style="color: #bf4d14;">[A4]</span> Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." &nbsp;<a href="https://arxiv.org/abs/2509.24816">https://arxiv.org/abs/2509.24816</a></font>
@@ -43,7 +43,7 @@ Publications
 * <font size=3><span style="color: #bf4d14;">[A2]</span> <u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." &nbsp;<a href="https://arxiv.org/abs/2501.13952">https://arxiv.org/abs/2501.13952</a></font>
 * <font size=3><span style="color: #bf4d14;">[A1]</span> <u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." &nbsp;<a href="https://arxiv.org/abs/2311.10776">https://arxiv.org/abs/2311.10776</a></font>  
 
-**<font size=3>Patent</font>**  
+<font size=3><b>Patent</b></font>**  
 * <font size=3><span style="color: #ffbf00;">[P2]</span> Liew, S. C., Zhang, F., <b>Du, Y.</b>, Chen, K. "An Image Semantic Communication Method Based on Multimodal Large Language Models", CN Application No: 202411403556.5</font>
 * <font size=3><span style="color: #ffbf00;">[P1]</span> Wang, L., <b>Du, Y.</b>, Chen, K., Liew, S. C." A Fine-Tuning Method for Networking Large Language Models", CN Application No: 202510011166.1</font>
 

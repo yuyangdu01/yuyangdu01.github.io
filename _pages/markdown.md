@@ -12,35 +12,35 @@ Publications <font size=3></font>
 <font size=1>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font>
 ------
 **<font size=3>Journals</font>** <br>
-* <font size=3>[J10] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models."  IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
-* <font size=3>[J9] <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution."  IEEE Communications Magazine, 2025.</font>
-* <font size=3>[J8] <b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.."  IEEE Transactions on Medical Imaging, 2025.</font>
-* <font size=3>[J7] <b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization."  IEEE Transactions on Vehicular Technology, 2025.</font>
-* <font size=3>[J6] <b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization."  IEEE Systems Journal, 2024.</font>
-* <font size=3>[J5] <b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers."  IEEE Transactions on Wireless Communications, 2023.</font>
-* <font size=3>[J4] <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers."  IEEE Transactions on Vehicular Technology, 2023.</font>
-* <font size=3>[J3] <b>Du, Y.</b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." Digital Signal Processing, 2022.</font>
-* <font size=3>[J2] <b>Du, Y.</b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." Digital Signal Processing, 2021.</font>
-* <font size=3>[J1] Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks."  IEEE Transactions on Communications, 2021.</font>
+* <font size=3>[J10] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
+* <font size=3>[J9] <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>
+* <font size=3>[J8] <b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." &nbsp;IEEE Transactions on Medical Imaging, 2025.</font>
+* <font size=3>[J7] <b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." &nbsp;IEEE Transactions on Vehicular Technology, 2025.</font>
+* <font size=3>[J6] <b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." &nbsp;IEEE Systems Journal, 2024.</font>
+* <font size=3>[J5] <b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." &nbsp;IEEE Transactions on Wireless Communications, 2023.</font>
+* <font size=3>[J4] <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." &nbsp;IEEE Transactions on Vehicular Technology, 2023.</font>
+* <font size=3>[J3] <b>Du, Y.</b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." &nbsp;Digital Signal Processing, 2022.</font>
+* <font size=3>[J2] <b>Du, Y.</b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." &nbsp;Digital Signal Processing, 2021.</font>
+* <font size=3>[J1] Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." &nbsp;IEEE Transactions on Communications, 2021.</font>
 
 **<font size=3>Conferences</font>**
-* <font size=3><u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." in IEEE ISQED 2026.</font>
-* <font size=3><u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." in IEEE ICNC 2026.</font>
-* <font size=3><u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." in NeurIPS SEA Workshop 2025.</font>
-* <font size=3><u>Chen, K.</u>, <b>Du, Y.</b>#, Li, J., Cao, H., Guo, M., Dang, X., et al, "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining" in ICCV VisionDocs Workshop 2025.</font>
-* <font size=3><u>Wang, L.</u>*, <b>Du, Y.</b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." in ACM MobiSys 2025.</font>
-* <font size=3><u>Wang, L.</u>*, <b>Du, Y.</b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." in IEEE ICNC 2025.</font>
-* <font size=3><u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." in IEEE/IFIP WiOpt 2024.</font>
-* <font size=3><u>Chen, K.</u>*, <b>Du, Y.</b>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." in IEEE ICRA 2024.</font>
-* <font size=3><b>Du, Y.</b>, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." in IEEE VTC 2024.</font>
-* <font size=3><b>Du, Y.</b>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." in IEEE VTC 2023.</font>
-* <font size=3><b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." in IEEE UEMCON 2019.</font>
+* <font size=3>[C11] <u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." &nbsp;IEEE ISQED 2026.</font>
+* <font size=3>[C10] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." &nbsp;IEEE ICNC 2026.</font>
+* <font size=3>[C9] <u>Yang, X.</u>, <b>Du, Y.</b>#, Chen, K., Liew, S. C., et al., "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." &nbsp;NeurIPS SEA Workshop 2025.</font>
+* <font size=3>[C8] <u>Chen, K.</u>, <b>Du, Y.</b>#, Li, J., Cao, H., Guo, M., Dang, X., et al, "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining". &nbsp;ICCV VisionDocs Workshop 2025.</font>
+* <font size=3>[C7] <u>Wang, L.</u>*, <b>Du, Y.</b>*, Long, X.*., Liu, X., Chen, K., Liew, S. C. "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." &nbsp;ACM MobiSys 2025.</font>
+* <font size=3>[C6] <u>Wang, L.</u>*, <b>Du, Y.</b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." &nbsp;IEEE ICNC 2025.</font>
+* <font size=3>[C5] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." &nbsp;IEEE/IFIP WiOpt 2024.</font>
+* <font size=3>[C4] <u>Chen, K.</u>*, <b>Du, Y.</b>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." &nbsp;IEEE ICRA 2024.</font>
+* <font size=3>[C3] <b>Du, Y.</b>, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." &nbsp;IEEE VTC 2024.</font>
+* <font size=3>[C2] <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." &nbsp;IEEE VTC 2023.</font>
+* <font size=3>[C1] <b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." &nbsp;IEEE UEMCON 2019.</font>
 
-**<font size=3>Preprints</font>**
-* <font size=3><u>Wang, L.</u>*, <b>Du, Y.</b>*#, Pan, Y., Liew, S. C.#, Chen, K., Liu, J., "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference." arXiv:2512.03927 (2025).</font>
-* <font size=3><u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." arXiv:2509.06119 (2025).</font>
-* <font size=3>Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." arXiv:2509.24816 (2025).</font>
-* <font size=3><b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." arXiv:2508.13920 (2025).</font>
-* <font size=3><u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
-* <font size=3><u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>  
+**<font size=3>Arxiv Preprints</font>**
+* <font size=3>[A6] <u>Wang, L.</u>*, <b>Du, Y.</b>*#, Pan, Y., Liew, S. C.#, Chen, K., Liu, J., "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference." &nbsp;<a href="https://arxiv.org/abs/2512.03927">https://arxiv.org/abs/2512.03927</a></font>
+* <font size=3>[A5] <u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." &nbsp;<a href="https://arxiv.org/abs/2509.06119">https://arxiv.org/abs/2509.06119</a></font>
+* <font size=3>[A4] Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." &nbsp;<a href="https://arxiv.org/abs/2509.24816">https://arxiv.org/abs/2509.24816</a></font>
+* <font size=3>[A3] <b>Du, Y.</b>*, Yang, Q.*, Wang, L.*, Lin, J., Cui, H., Liew, S. C., "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents." &nbsp;<a href="https://arxiv.org/abs/2508.13920">https://arxiv.org/abs/2508.13920</a></font>
+* <font size=3>[A2] <u>Zhang, Y.</u>, Chen, X., Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." &nbsp;<a href="https://arxiv.org/abs/2501.13952">https://arxiv.org/abs/2501.13952</a></font>
+* <font size=3>[A1] <u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." &nbsp;<a href="https://arxiv.org/abs/2311.10776">https://arxiv.org/abs/2311.10776</a></font>  
 

@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 List of Publications <font size=3></font><font size=1>(<u>Mentee</u>, *Equal Contribution, #Corresponding Author/Project Lead)</font>
+---
 <font size=1>(<u>Mentee</u>, *Equal Contribution, #Corresponding Author/Project Lead)</font>
 <font size=1>(<u>Mentee</u>, *Equal Contribution, #Corresponding Author/Project Lead)</font>
 ------

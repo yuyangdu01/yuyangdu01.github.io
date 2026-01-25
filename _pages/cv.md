@@ -47,9 +47,9 @@ Mentorship
 
 Funding
 ------
-* <font size=3> <b>Key Member</b>, “Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems”, GRF, UGC, <i><b>1.3m HKD</b></i>, 2026-2029, <u>Pending</u>.</font>
+* <font size=3> <b>Key Contributor</b>, “Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems”, GRF, UGC, <i><b>1.3m HKD</b></i>, 2026-2029, <u>Pending</u>.</font>
 * <font size=3> <b>Co-I</b>, “Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery”, MHKTCFS, ITC, <i><b>3.3m HKD</b></i>, 2026-2028, <u>Pending</u>.</font>
 * <font size=3> <b>Co-I</b>, “SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Wireless Networks, and Blockchain”, MHKTCFS, ITC, <i><b>2m HKD</b></i>, 2026-2028, <u>Pending</u>.</font>
 * <font size=3> <b>Co-I</b>, “Multimodal LLM-Driven Semantic Communication for Vehicular Networks”, ITSP(Seed), ITC, <i><b>1.4m HKD</b></i>, 2025-2027, <u>Pending</u>.</font>
 * <font size=3> <b>Co-I</b>, “Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT”, Shenzhen-Hong Kong-Macao Science and Technology Collaboration Fund (Type C), STIC, <i><b>3.4m HKD</b></i>, 2024-2026, <u>Approved</u>.</font>
-* <font size=3> <b>Key Member</b>, “An Academia-Industry Collaboration for Systematic LLM Education: Hands-on Experiences and Co-Training Opportunities”, FITE, UGC, <i><b>274k HKD</b></i>, 2024-2025, <u>Completed</u>.</font>
+* <font size=3> <b>Key Contributor</b>, “An Academia-Industry Collaboration for Systematic LLM Education: Hands-on Experiences and Co-Training Opportunities”, FITE, UGC, <i><b>274k HKD</b></i>, 2024-2025, <u>Completed</u>.</font>

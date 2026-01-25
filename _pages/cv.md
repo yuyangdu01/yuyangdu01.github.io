@@ -13,8 +13,8 @@ Reviewer
   <li><font size=3>Journal Reviewer:</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
-        <li><font size=3>IEEE TII/TSP/TCOM/TWC/TVT/THMS/CommunMag/CL/WCL/Access</font></li>
-        <li><font size=3>ACM TIoT/TKDD</font></li>
+        <li><font size=3>IEEE: TII/TSP/TCOM/TWC/TVT/THMS/CommunMag/CL/WCL/Access</font></li>
+        <li><font size=3>ACM: TIoT/TKDD</font></li>
         <li><font size=3>Springer: Nature Communications, Scientific Reports</font></li>
         <li><font size=3>Elsevier: SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ, AE, EAAI, COMNET, NEUNET, FGCS</font></li>
       </ul>

@@ -32,7 +32,7 @@ News <font size=3></font>
 * <font size=3><b>2025-02</b>: <a href="https://ieeexplore.ieee.org/abstract/document/10993716">RaC</a>, a SFT framework for networking agents, is accepted by <b>ICNC'25</b>.</font>
 * <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework for ethical alignment, is available on <b>Arxiv</b>.</font>
 
-<div id="clustrmaps-widget" style="width:10%"><center>
+<div id="clustrmaps-widget" style="width:25%">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=od8a63akYTgethb2LTMdoPosPVSy4Zi_mwp0ihnijJE&cl=ffffff&w=a"></script>
 </div>
 

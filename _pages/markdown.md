@@ -9,18 +9,18 @@ redirect_from:
 
 Publications  
 ------
-<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a> <br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font>  
+<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a> <br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font> <br> 
 **<font size=3>Journals</font>** <br>
-* <font size=3>[J10] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
-* <font size=3>[J9] <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>
-* <font size=3>[J8] <b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." &nbsp;IEEE Transactions on Medical Imaging, 2025.</font>
-* <font size=3>[J7] <b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." &nbsp;IEEE Transactions on Vehicular Technology, 2025.</font>
-* <font size=3>[J6] <b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." &nbsp;IEEE Systems Journal, 2024.</font>
-* <font size=3>[J5] <b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." &nbsp;IEEE Transactions on Wireless Communications, 2023.</font>
-* <font size=3>[J4] <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." &nbsp;IEEE Transactions on Vehicular Technology, 2023.</font>
-* <font size=3>[J3] <b>Du, Y.</b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." &nbsp;Digital Signal Processing, 2022.</font>
-* <font size=3>[J2] <b>Du, Y.</b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." &nbsp;Digital Signal Processing, 2021.</font>
-* <font size=3>[J1] Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." &nbsp;IEEE Transactions on Communications, 2021.</font>
+* <font size=3><span style="color: ##3a7c22;">[J10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
+* <font size=3><span style="color: ##3a7c22;">[J9]</span> <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>
+* <font size=3><span style="color: ##3a7c22;">[J8]</span> <b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C. H., et al, "LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos.." &nbsp;IEEE Transactions on Medical Imaging, 2025.</font>
+* <font size=3><span style="color: ##3a7c22;">[J7]</span> <b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." &nbsp;IEEE Transactions on Vehicular Technology, 2025.</font>
+* <font size=3><span style="color: ##3a7c22;">[J6]</span> <b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." &nbsp;IEEE Systems Journal, 2024.</font>
+* <font size=3><span style="color: ##3a7c22;">[J5]</span> <b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." &nbsp;IEEE Transactions on Wireless Communications, 2023.</font>
+* <font size=3><span style="color: ##3a7c22;">[J4]</span> <b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." &nbsp;IEEE Transactions on Vehicular Technology, 2023.</font>
+* <font size=3><span style="color: ##3a7c22;">[J3]</span> <b>Du, Y.</b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." &nbsp;Digital Signal Processing, 2022.</font>
+* <font size=3><span style="color: ##3a7c22;">[J2]</span> <b>Du, Y.</b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." &nbsp;Digital Signal Processing, 2021.</font>
+* <font size=3><span style="color: ##3a7c22;">[J1]</span> Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." &nbsp;IEEE Transactions on Communications, 2021.</font>
 
 **<font size=3>Conferences</font>**
 * <font size=3>[C11] <u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." &nbsp;IEEE ISQED 2026.</font>

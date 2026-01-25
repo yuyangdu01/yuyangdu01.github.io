@@ -33,10 +33,10 @@ News <font size=3></font>
 * <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework for ethical alignment, is available on <b>Arxiv</b>.</font>
 
 <p><center>
+  <br>
   <div id="clustrmaps-widget" style="width:25%">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=od8a63akYTgethb2LTMdoPosPVSy4Zi_mwp0ihnijJE&cl=ffffff&w=a"></script>
   </div>
-  <br>
-  <font size=2> @Yuyang Du | Last updated: Jan 2026 </font>
+  <font size=3> @Yuyang Du | Last updated: Jan 2026 </font>
 </center></p>
 

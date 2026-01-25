@@ -9,7 +9,7 @@ redirect_from:
 
 Publications <font size=3></font>  
 ------
-<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a></font>
+<font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a></font><br>
 <font size=2>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font>
 **<font size=3>Journals</font>** <br>
 * <font size=3>[J10] <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>

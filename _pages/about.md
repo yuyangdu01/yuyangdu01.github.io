@@ -19,7 +19,7 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> is accepted by <b>ISQED'26</b>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> is accepted by <b>ICNC'26</b>.</font>
+* <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> is accepted by <b>ISQED'26</b>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> is accepted by <b>ICNC'26</b>, <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is accepted by <b>ICLR'26</b>.</font>
 * <font size=3><b>2025-11</b>: Distributed edge MoE inference framework <a href="https://arxiv.org/abs/2512.03927">OD-MoE</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25 Workshop</b>; <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on <b>Arxiv</b>.</font>
 * <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119">Industrial Robotic Network</a> is available on <b>Arxiv</b>.</font>

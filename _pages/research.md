@@ -36,14 +36,22 @@ redirect_from:
   <span>Selected Publications:</span>
   <br>
   <span style="font-size: 14px; color: grey;">(underlines for student co-advised, * for equal contribution, # for corresponding author/project lead)</span>
-  <br>
-  <br>
+  <br><br>
+  
   <p style="font-size: 18px; font-weight: bold;">Application-Specific Agents:</p>
   <ul>
     <li>
       <span><u>Yang, X.</u>, <b>Du, Y.</b><span style="color: #e97132;">#</span>, Chen, K#., Liew, S. C.<span style="color: #e97132;">#</span>, …, Heng, P. A.# "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." <i>NeurIPS 2025.</i> [<a href="https://openreview.net/pdf?id=Og72OdBv8G">OpenReview</a>]</span>
     </li>
+    <li>
+      <span><u>Chen, K.</u>, <b>Du, Y.</b><span style="color: #e97132;">#</span>, Li, J., Cao, H., Guo, M., Dang, X., Li, L., Qiu, J., Chen, G. <span style="color: #e97132;">#</span>, Heng, P. A. "ChemMiner: A Large Language Model Agent System for Chemical Data Mining." <i>ICCV 2025.</i> [<a href="https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/html/Chen_ChemMiner_A_Large_Language_Model_Agent_System_for_Chemical_Literature_ICCVW_2025_paper.html">Proceedings</a>]</span>
+    </li>
+    <li>
+      <span><u>Wang, L.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Long, X., Liu, X., Chen, K., Liew, S. C., " Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations." <i>ACM Mobisys 2025.</i> [<a href="https://dl.acm.org/doi/pdf/10.1145/3711875.3734372">ACM Library</a>]</span>
+    </li>
   </ul>
+
+  <p style="font-size: 18px; font-weight: bold;">LLM Post-train:</p>
   
 </details>
 <hr>

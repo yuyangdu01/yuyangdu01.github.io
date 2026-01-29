@@ -52,7 +52,21 @@ redirect_from:
   </ul>
 
   <p style="font-size: 18px; font-weight: bold;">LLM Post-train:</p>
-  
+  <ul>
+    <li>
+      <span><u>Wang, L.</u><span style="color: #45b0e1;">*</span>, Du, Y.<span style="color: #45b0e1;">*</span>, Lin, J., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." <i>IEEE ICNC 2025.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10993716/">IEEE Xplore</a>]</span>
+    </li>
+    <li>
+      <span><u>Zhang, Y.</u>, <u>Chen, X.</u>, <u>Chen, K.</u>, <b>Du, Y.</b><span style="color: #e97132;">#</span>, Dang, X., …, Heng, P. A., "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?" <i>Major Revision at Nature Communication.</i> [<a href="https://arxiv.org/abs/2501.13952">Arxiv</a>]</span>
+    </li>
+  </ul>
+
+  <p style="font-size: 18px; font-weight: bold;">Distributed MoE Inference:</p>
+  <ul>
+    <li>
+      <span><u>Wang, L.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span><span style="color: #e97132;">#</span>, Pan, Y., Liew, S. C.<span style="color: #e97132;">#</span>, Liu, Y., Chen, K. "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference", <i>Under Review at OSDI’26.</i> [<a href="https://arxiv.org/abs/2512.03927">Arxiv</a>]</span>
+    </li>
+  </ul>
 </details>
 <hr>
 

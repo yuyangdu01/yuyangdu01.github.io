@@ -33,12 +33,17 @@ redirect_from:
 
   <p style="text-align: justify;">A core challenge for intelligent mobile systems lies in the inherent conflict between the growing user demand for powerful AIs and the severe resource constraints at the edge. To address this, my recent works design and implement cost-effective LLM agents for edge scenarios. I use LLM post-training techniques (e.g., supervised fine-tuning, knowledge distillation, and model alignment) to boost the performance of lightweight models for specific edge applications. I am also actively exploring distributed LLM inference powered by MoE architecture. My research enables the aggregation of fragmented and underutilized computational resources across massive distributed IoT devices for supporting large-scale LLMs at the edge.
   </p>
-  <p>Selected Publications:</p>
-  <span style="font-size: 12px; color: grey;">(underlines for student co-advised, * for equal contribution, # for corresponding author/project lead)</span>
+  <span>Selected Publications:</span>
   <br>
-
+  <span style="font-size: 14px; color: grey;">(underlines for student co-advised, * for equal contribution, # for corresponding author/project lead)</span>
+  <br>
+  <br>
   <p style="font-size: 18px; font-weight: bold;">Application-Specific Agents:</p>
-
+  <ul>
+    <li>
+      <span><u>Yang, X.</u>, <b>Du, Y.</b><span style="color: #e97132;">#</span>, Chen, K#., Liew, S. C.<span style="color: #e97132;">#</span>, …, Heng, P. A.# "IndusGCC: A Data Benchmark and Evaluation Framework for GUI-Based General Computer Control in Industrial Automation." <i>NeurIPS 2025.</i> [<a href="https://openreview.net/pdf?id=Og72OdBv8G">OpenReview</a>]</span>
+    </li>
+  </ul>
   
 </details>
 </div>

@@ -25,7 +25,8 @@ redirect_from:
 
 
 <div style="text-align: left;">
-<details>
+  
+<details><!-- Remy: #1 fold contents -->
   <summary>
     <span style="text-align: center; font-size: 24px; font-weight: bold;">Efficient AIs at Edge</span>
   </summary>
@@ -65,6 +66,50 @@ redirect_from:
   <ul>
     <li>
       <span><u>Wang, L.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span><span style="color: #e97132;">#</span>, Pan, Y., Liew, S. C.<span style="color: #e97132;">#</span>, Liu, Y., Chen, K. "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference", <i>Under Review at OSDI’26.</i> [<a href="https://arxiv.org/abs/2512.03927">Arxiv</a>]</span>
+    </li>
+  </ul>
+</details>
+<hr>
+
+<details><!-- Remy: #2 fold contents -->
+  <summary>
+    <span style="text-align: center; font-size: 24px; font-weight: bold;">Highly Reliable Wireless Communications at Edge</span>
+  </summary>
+  <br>
+
+  <p style="text-align: justify;">Ensuring highly reliable wireless links is critical for edge systems, particularly in mission-critical applications such as industrial automation and remote surgery. My research tackles this challenge by delivering communication reliability through full-stack networking designs. At the lower layers (PHY and MAC), I developed ultra-reliable low-latency communication (URLLC) systems through advanced signal processing optimization and scheduling algorithms. At the application layer, I designed task-oriented semantic communication systems powered by LLMs, which ensure the successful execution of planned actions even in the presence of communication errors.
+  </p>
+  <span>Selected Publications:</span>
+  <br>
+  <span style="font-size: 14px; color: grey;">(underlines for student co-advised, * for equal contribution, # for corresponding author/project lead)</span>
+  <br><br>
+  
+  <p style="font-size: 18px; font-weight: bold;">Task-Oriented Communication:</p>
+  <ul>
+    <li>
+      <span><u>Zhang, F.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Xiang, Y., Liu, X., Liew, S. C. " SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework Leveraging Contextual Understanding for Coding Efficacy", <i>Accepted by IEEE ICNC 2026.</i> [<a href="https://arxiv.org/abs/2509.07436">Arxiv</a>]</span>
+    </li>
+    <li>
+      <span><u>Zhang, F.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Chen, K., Shao, Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." <i>IEEE Transactions on Machine Learning in Communications and Networking, 2025.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/11113346">IEEE Xplore</a>]</span>
+    </li>
+    <li>
+      <span><u>Zhang, F.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Chen, K., Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." <i>IEEE WiOpt 2024.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10778295">IEEE Xplore</a>]</span>
+    </li>
+  </ul>
+
+  <p style="font-size: 18px; font-weight: bold;">URLLC:</p>
+  <ul>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
     </li>
   </ul>
 </details>

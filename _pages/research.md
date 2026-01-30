@@ -132,16 +132,16 @@ redirect_from:
   <p style="font-size: 18px; font-weight: bold;">Industrial IoT Automation (with a drug manufacturing use case):</p>
   <ul>
     <li>
-      <span></span>
+      <span><u>Cui, H.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Yang, Q., Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." <i>IEEE Communications Magazine, 2025.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10697418">IEEE Xplore</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Yang, Q., Wang, L., Lin, J., Cui, H., Liew, S. C. "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents," <i>Under Review at IEEE Journal on Selected Areas in Communications.</i> [<a href="https://arxiv.org/abs/2508.13920">Arxiv</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><u>Xu, S.</u><span style="color: #45b0e1;">*</span>, <u>Zhang, L.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, Liew, S. C. "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications", <i>Accepted by IEEE ICRA 2026.</i> [<a href="https://arxiv.org/abs/2509.06119">Arxiv</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b><span style="color: #e97132;">#</span>, …, Heng, P. A., "Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis.", <i>Major Revision at Computational Chemistry.</i> [<a href="https://arxiv.org/abs/2311.10776">Arxiv</a>]</span>
     </li>
   </ul>
 

@@ -115,5 +115,49 @@ redirect_from:
 </details>
 <hr>
 
+<details><!-- Remy: #3 fold contents -->
+  <summary>
+    <span style="text-align: center; font-size: 24px; font-weight: bold;">AI-Wireless Integration for Mobile Edge Applications</span>
+  </summary>
+  <br>
+
+  <p style="text-align: justify;">Another important line of research of mine is to develop real-world intelligent edge systems that deliver practical impacts for both the research community and commercial R&D. My recent works explore Industrial 4.0 systems, with an emphasis on soft manufacturing – where advanced AI and wireless communication technologies are integrated to enable unmanned system automation and flexible reconfiguration. I am building a fully autonomous self-driving laboratory for automated pharmaceutical validation and manufacturing in collaboration with chemical experts. Meanwhile, I am actively investigating the synergy of AI and wireless communication to advance remote healthcare applications in the upcoming 6G era. 
+    <br>Given the interdisciplinary nature in this line of research, my work involves collaborations with domain experts from Harvard, the National University of Singapore (NUS), Zhejiang University (ZJU), and the CSE Department at CUHK.
+  </p>
+  <span>Selected Publications:</span>
+  <br>
+  <span style="font-size: 14px; color: grey;">(underlines for student co-advised, * for equal contribution, # for corresponding author/project lead)</span>
+  <br><br>
+  
+  <p style="font-size: 18px; font-weight: bold;">Industrial IoT Automation (with a drug manufacturing use case):</p>
+  <ul>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+  </ul>
+
+  <p style="font-size: 18px; font-weight: bold;">Remote Healthcare:</p>
+  <ul>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+    <li>
+      <span></span>
+    </li>
+  </ul>
+</details>
+<hr>
 
 </div>

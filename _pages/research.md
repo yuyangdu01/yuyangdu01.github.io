@@ -100,16 +100,16 @@ redirect_from:
   <p style="font-size: 18px; font-weight: bold;">URLLC:</p>
   <ul>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Liew, S. C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." <i>IEEE Transactions on Vehicular Technology, 2025.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10902223">IEEE Xplore</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." <i>IEEE Systems Journal, 2024.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10540457">IEEE Xplore</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Liew, S. C., Shao, Y., "Efficient FFT Computation in IFDMA transceivers." <i>IEEE Transactions on Wireless Communications, 2023.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10049776">IEEE Xplore</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." <i>IEEE Transactions on Vehicular Technology, 2023.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10132544">IEEE Xplore</a>]</span>
     </li>
   </ul>
 </details>

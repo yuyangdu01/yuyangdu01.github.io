@@ -148,13 +148,13 @@ redirect_from:
   <p style="font-size: 18px; font-weight: bold;">Remote Healthcare:</p>
   <ul>
     <li>
-      <span></span>
+      <span><u>Dang, X.</u>, <u>Chen, K.</u>, Su, X., …, Long X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A." KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning", <i>accepted by ICLR 2026.</i> [<a href="https://openreview.net/pdf?id=gQRefH8upx">OpenReview</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><b>Du, Y.</b>, Chen, K., Zhan, Y., Low, C.H., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P. A. " LMT++: Adaptively Collaborating LLMs with Multi-specialized Teachers for Continual VQA in Robotic Surgical Videos." <i>IEEE Transactions on Medical Imaging, 2025.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/11045720">IEEE Xplore</a>]</span>
     </li>
     <li>
-      <span></span>
+      <span><u>Chen, K.</u><span style="color: #45b0e1;">*</span>, <b>Du, Y.</b><span style="color: #45b0e1;">*</span>, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P. A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." <i>IEEE ICRA 2024.</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10610603">IEEE Xplore</a>]</span>
     </li>
   </ul>
 </details>

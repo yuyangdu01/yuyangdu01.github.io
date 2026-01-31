@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 <div align="center">
-  <img src="../images/research01.jpg" width="33%">
-  <img src="../images/research02.png" width="33%">
-  <img src="../images/research03.png" width="33%">
+  <img src="../images/research01.jpg" width="32%">
+  <img src="../images/research02.png" width="32%">
+  <img src="../images/research03.png" width="32%">
 </div>
 <div align="center">
   <table style="border:none; border-collapse: collapse;">
     <tr>
-      <td style="border:none; font-size: 14px; padding: 10px;" width="33%" align="center">Efficient AIs at Edge</td>
-      <td style="border:none; font-size: 14px; padding: 10px;" width="33%" align="center">Highly Reliable Wireless Communications at Edge</td>
-      <td style="border:none; font-size: 14px; padding: 10px;" width="33%" align="center">AI-Wireless Integration for Mobile Edge Applications</td>
+      <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">Efficient AIs at Edge</span></td>
+      <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">Highly Reliable Wireless Communications at Edge</span></td>
+      <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">AI-Wireless Integration for Mobile Edge Applications</span></td>
     </tr>
   </table>
 </div>

@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <div align="center">
-  <img src="../images/research01.jpg" width="30%">
-  <img src="../images/research02.png" width="30%">
-  <img src="../images/research03.png" width="30%">
+  <img src="../images/research01.jpg" width="33%">
+  <img src="../images/research02.png" width="33%">
+  <img src="../images/research03.png" width="33%">
 </div>
 <div align="center">
   <table style="border:none; border-collapse: collapse;">

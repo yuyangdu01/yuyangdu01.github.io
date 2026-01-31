@@ -28,6 +28,7 @@ main:
   - title: "Publication"
     url: /publication/
     
+#  - title: "Service"
+#   url: /activity/
   - title: "Service"
-    url: /activity/
-
+    url: /service/

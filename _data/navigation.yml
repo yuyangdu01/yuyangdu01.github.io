@@ -23,9 +23,11 @@ main:
   - title: "Research"
     url: /research/
     
+#  - title: "Publication"
+#    url: /news/
   - title: "Publication"
-    url: /news/
-
+    url: /publication/
+    
   - title: "Service"
     url: /activity/
 

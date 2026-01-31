@@ -20,11 +20,12 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
+  - title: "Research"
+    url: /research/
+    
   - title: "Publication"
     url: /news/
 
   - title: "Service"
     url: /activity/
 
-  - title: "Research"
-    url: /research/

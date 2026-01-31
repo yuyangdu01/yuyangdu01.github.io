@@ -15,9 +15,9 @@ redirect_from:
 <div align="center">
   <table style="border:none; border-collapse: collapse;">
     <tr>
-      <td style="border:none; padding: 10px;" width="30%" align="center">Efficient AIs at Edge</td>
-      <td style="border:none; padding: 10px;" width="30%" align="center">Highly Reliable Wireless Communications at Edge</td>
-      <td style="border:none; padding: 10px;" width="30%" align="center">AI-Wireless Integration for Mobile Edge Applications</td>
+      <td style="border:none; font-size: 14px; padding: 10px; width="33%" align="center">Efficient AIs at Edge</td>
+      <td style="border:none; font-size: 14px; padding: 10px; width="33%" align="center">Highly Reliable Wireless Communications at Edge</td>
+      <td style="border:none; font-size: 14px; padding: 10px; width="33%" align="center">AI-Wireless Integration for Mobile Edge Applications</td>
     </tr>
   </table>
 </div>

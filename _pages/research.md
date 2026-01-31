@@ -32,7 +32,7 @@ redirect_from:
   </summary>
   <br>
 
-  <p style="text-align: justify;">A core challenge for intelligent mobile systems lies in the inherent conflict between the growing user demand for powerful AIs and the severe resource constraints at the edge. To address this, my recent works design and implement cost-effective LLM agents for edge scenarios. I use LLM post-training techniques (e.g., supervised fine-tuning, knowledge distillation, and model alignment) to boost the performance of lightweight models for specific edge applications. I am also actively exploring distributed LLM inference powered by MoE architecture. My research enables the aggregation of fragmented and underutilized computational resources across massive distributed IoT devices for supporting large-scale LLMs at the edge.
+  <p style="text-align: justify; font-size: 18px;">A core challenge for intelligent mobile systems lies in the inherent conflict between the growing user demand for powerful AIs and the severe resource constraints at the edge. To address this, my recent works design and implement cost-effective LLM agents for edge scenarios. I use LLM post-training techniques (e.g., supervised fine-tuning, knowledge distillation, and model alignment) to boost the performance of lightweight models for specific edge applications. I am also actively exploring distributed LLM inference powered by MoE architecture. My research enables the aggregation of fragmented and underutilized computational resources across massive distributed IoT devices for supporting large-scale LLMs at the edge.
   </p>
   <span>Selected Publications:</span>
   <br>
@@ -77,7 +77,7 @@ redirect_from:
   </summary>
   <br>
 
-  <p style="text-align: justify;">Ensuring highly reliable wireless links is critical for edge systems, particularly in mission-critical applications such as industrial automation and remote surgery. My research tackles this challenge by delivering communication reliability through full-stack networking designs. At the lower layers (PHY and MAC), I developed ultra-reliable low-latency communication (URLLC) systems through advanced signal processing optimization and scheduling algorithms. At the application layer, I designed task-oriented semantic communication systems powered by LLMs, which ensure the successful execution of planned actions even in the presence of communication errors.
+  <p style="text-align: justify; font-size: 18px;">Ensuring highly reliable wireless links is critical for edge systems, particularly in mission-critical applications such as industrial automation and remote surgery. My research tackles this challenge by delivering communication reliability through full-stack networking designs. At the lower layers (PHY and MAC), I developed ultra-reliable low-latency communication (URLLC) systems through advanced signal processing optimization and scheduling algorithms. At the application layer, I designed task-oriented semantic communication systems powered by LLMs, which ensure the successful execution of planned actions even in the presence of communication errors.
   </p>
   <span>Selected Publications:</span>
   <br>
@@ -121,8 +121,8 @@ redirect_from:
   </summary>
   <br>
 
-  <p style="text-align: justify;">Another important line of research of mine is to develop real-world intelligent edge systems that deliver practical impacts for both the research community and commercial R&D. My recent works explore Industrial 4.0 systems, with an emphasis on soft manufacturing – where advanced AI and wireless communication technologies are integrated to enable unmanned system automation and flexible reconfiguration. I am building a fully autonomous self-driving laboratory for automated pharmaceutical validation and manufacturing in collaboration with chemical experts. Meanwhile, I am actively investigating the synergy of AI and wireless communication to advance remote healthcare applications in the upcoming 6G era. 
-    <br>Given the interdisciplinary nature in this line of research, my work involves collaborations with domain experts from Harvard, the National University of Singapore (NUS), Zhejiang University (ZJU), and the CSE Department at CUHK.
+  <p style="text-align: justify; font-size: 18px;">Another important line of research of mine is to develop real-world intelligent edge systems that deliver practical impacts for both the research community and commercial R&D. My recent works explore Industrial 4.0 systems, with an emphasis on soft manufacturing – where advanced AI and wireless communication technologies are integrated to enable unmanned system automation and flexible reconfiguration. I am building a fully autonomous self-driving laboratory for automated pharmaceutical validation and manufacturing in collaboration with chemical experts. Meanwhile, I am actively investigating the synergy of AI and wireless communication to advance remote healthcare applications in the upcoming 6G era. 
+    <br><br>Given the interdisciplinary nature in this line of research, my work involves collaborations with domain experts from Harvard, the National University of Singapore (NUS), Zhejiang University (ZJU), and the CSE Department at CUHK.
   </p>
   <span>Selected Publications:</span>
   <br>

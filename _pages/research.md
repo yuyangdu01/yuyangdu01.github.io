@@ -16,7 +16,7 @@ redirect_from:
   <table style="border:none; border-collapse: collapse;">
     <tr>
       <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">Efficient AIs at Edge</span></td>
-      <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">Highly Reliable Wireless Communications at Edge</span></td>
+      <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;"> Real-Time & Task-Oriented Communications at Edge</span></td>
       <td style="border:none; padding: 10px;" width="32%" align="center"><span style="font-size: 16px;">AI-Wireless Integration for Mobile Edge Applications</span></td>
     </tr>
   </table>

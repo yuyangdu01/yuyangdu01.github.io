@@ -73,7 +73,7 @@ redirect_from:
 
 <details><!-- Remy: #2 fold contents -->
   <summary>
-    <span style="text-align: center; font-size: 24px; font-weight: bold;">Highly Reliable Wireless Communications at Edge</span>
+    <span style="text-align: center; font-size: 24px; font-weight: bold;">Real-Time & Task-Oriented Communications at Edge</span>
   </summary>
   <br>
 

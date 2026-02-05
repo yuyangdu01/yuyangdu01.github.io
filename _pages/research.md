@@ -122,7 +122,7 @@ redirect_from:
   <br>
 
   <p style="text-align: justify; font-size: 18px;">Another important line of research of mine is to develop real-world intelligent edge systems with practical impacts for both the research community and commercial R&D. My recent works explore Industrial 4.0 systems, with an emphasis on soft manufacturing – where advanced AI and wireless communication technologies are integrated to enable unmanned system automation and flexible product line reconfiguration. I am now building a fully autonomous self-driving laboratory for automated pharmaceutical manufacturing in collaboration with chemical experts. Meanwhile, I am actively investigating the synergy of AI and wireless communication to advance remote healthcare applications in the upcoming 6G era. 
-    <br><br>Given the interdisciplinary nature, my works in this line of research are conducted in collaboration with domain experts from Harvard, the National University of Singapore (NUS), Zhejiang University (ZJU), and the CSE Department at CUHK.
+    <br><br>Given the interdisciplinary nature, my works in this line of research are conducted in collaboration with domain experts from Harvard, National University of Singapore (NUS), Zhejiang University (ZJU), and the CSE Department at CUHK.
   </p>
   <span>Selected Publications:</span>
   <br>

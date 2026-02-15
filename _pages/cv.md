@@ -15,8 +15,8 @@ Reviewer
       <ul style="margin-left: 0px;">
         <li><font size=3>IEEE TCOM / TWC / TSP / TII / TVT / THMS / TNNLS / TMM / ComMag / WCL / CL / Access</font></li>
         <li><font size=3>ACM TIoT / TKDD</font></li>
-        <li><font size=3>Springer: Nature Communications, Scientific Reports</font></li>
-        <li><font size=3>Elsevier: SP, DSP, ADHIC, COMPELECENG, TELER, VLSIJ, AE, EAAI, COMNET, NEUNET, FGCS</font></li>
+        <li><font size=3>Springer Nature Communications / Scientific Reports</font></li>
+        <li><font size=3>Elsevier SP / DSP / PR / ADHIC / COMPELECENG / TELER / VLSIJ / AE / EAAI / COMNET / NEUNET / FGCS</font></li>
       </ul>
     </ul>
   <li><font size=3>Conference Reviewers:</font></li>

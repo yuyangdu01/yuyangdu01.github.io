@@ -40,7 +40,6 @@ Teaching
 
 Mentorship
 ------
-I have been advising CUHK final-year projects since 2023. Starting from 2024, I have had the honor to work with talented students and research assistants from the Institute of Network Coding at IE Department, CUHK (led by Prof. Soung Chang Liew) and Institute of Medical Intelligence at CSE Department, CUHK (led by Prof. Pheng Ann Heng). A list of my mentees is as follows:
 * <font size=3> <b>PhD Student</b>: Feifan Zhang, Liujianfu Wang, Shiqi Xu, Yirun Wang, Yuchen Pan, Qun Yang, Hongwei Cui, Kexin Chen, Yiyi Zhang, Xilin Dang</font>
 * <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Yining Du, Haomin Qi, Jingqi Lin, Lihao Zhang, Qiying Hu, Xingyu Chen</font>

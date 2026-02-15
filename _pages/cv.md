@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Reviewer
+Review
 ------
 <ul>
   <li><font size=3>Journal Reviewer:</font></li>

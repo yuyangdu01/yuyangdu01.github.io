@@ -40,7 +40,7 @@ Teaching
 
 Mentorship
 ------
-* <font size=3> <b>PhD Student</b>: Feifan Zhang, Liujianfu Wang, Shiqi Xu, Yirun Wang, Yuchen Pan, Qun Yang, Hongwei Cui, Kexin Chen, Yiyi Zhang, Xilin Dang</font>
+* <font size=3> <b>PhD Student</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a>, <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a>, <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a>, <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a>, Yuchen Pan, Qun Yang, <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a>, <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a>, Yiyi Zhang, <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a></font>
 * <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Yining Du, Haomin Qi, Jingqi Lin, Lihao Zhang, Qiying Hu, Xingyu Chen</font>
 * <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>

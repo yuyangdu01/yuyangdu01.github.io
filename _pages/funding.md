@@ -17,7 +17,7 @@ a {
 
 Approved/Pending
 ------
-<p style="text-align: justify;"><font size=3> I have contributed to the following approved/pending applications, including 1 <b>GRF</b> from HK UGC, 1 <b>ITSP</b> and 2 <b>MHKTCFS</b> from HK ITC, and 1 <b>Type C</b> project from STIC.</font></p>
+<p style="text-align: justify;"><font size=3> I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
 
 

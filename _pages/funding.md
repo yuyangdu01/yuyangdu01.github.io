@@ -25,8 +25,8 @@ Approved/Pending
   <font size=3><b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the <i>full proposal</i>.</li></font>
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the <i>full proposal</i>.</li></font></p>
 </ul>
 
 

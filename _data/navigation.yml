@@ -30,5 +30,9 @@ main:
     
 #  - title: "Service"
 #   url: /activity/
-  - title: "Service"
+  - title: "Services"
     url: /service/
+
+  - title: "Funding"
+    url: /funding/
+

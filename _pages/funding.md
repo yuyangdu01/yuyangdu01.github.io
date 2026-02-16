@@ -22,7 +22,7 @@ Approved/Pending
 <ol>
   
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
-  <b>UGC General Research Fund (~1.4m HKD)</b>
+  <font size=3><b>UGC General Research Fund (~1.4m HKD)</b></font>
   <b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b>
 </li>
 <ul style="margin-left: 1.5em;">

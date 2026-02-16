@@ -23,7 +23,7 @@ Review
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3> Communications / Networking Conferences: ICC'23, GLOBECOM'24, ICCC'24, WCNC'26</font></li>
-        <li><font size=3> AI / Robotic Conferences:ICRA'25, NeurIPS'25, AAAI'26</font></li>
+        <li><font size=3> AI / Robotic Conferences: ICRA'25, NeurIPS'25, AAAI'26</font></li>
       </ul>
     </ul>
 </ul>  

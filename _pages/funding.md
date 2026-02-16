@@ -47,4 +47,12 @@ Approved/Pending
   <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, draft the <i>full proposal</i> and <i>coordinate with industry sponsors</i>.</li></font></p>
 </ul>
 
+<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
+  <font size=3><b>4. ITC Innovation and Technology Support Program (~1.4m HKD)</b></font>
+  <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Conditionally Approved</span>)</b></font>
+</li>
+<ul style="margin-left: 1.5em;">
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, draft the <i>full proposal</i>.</li></font></p>
+</ul>
 

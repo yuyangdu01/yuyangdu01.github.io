@@ -33,7 +33,7 @@ Approved/Pending
   <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font>
+  <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font><br>
   <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font>
 </ul>
 

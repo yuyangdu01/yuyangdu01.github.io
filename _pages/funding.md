@@ -61,5 +61,5 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the HK-side proposal and led the HK-side project executions.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the HK-side proposal and led the project executions.</li></font></p>
 </ul>

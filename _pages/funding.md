@@ -19,19 +19,6 @@ Approved/Pending
 ------
 <p style="text-align: justify;"><font size=3> I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
-<li style="display: flex; justify-content: space-between; align-items: flex-start; list-style-type: none; margin-bottom: 0.5em;">
-  <span><b>UGC General Research Fund (~1.4m HKD)</b></span>
-  <span style="color: #2e74b5; white-space: nowrap;">2026-2029 (<span>Pending</span>)</span>
-</li>
-<ul style="margin-left: 1.5em; list-style-type: disc;">
-  <li>
-    <b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems
-  </li>
-  <li>
-    <b>Role:</b> <span style="color: #bf8f00;">Co-Investigator</span>, contributed to drafting the <i><span style="color: #ffc000;">full proposal</span></i>.
-  </li>
-</ul>
-
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
   <b>UGC General Research Fund (~1.4m HKD)</b>
@@ -41,15 +28,6 @@ Approved/Pending
   <li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li>
   <li><b>Role:</b> <span style="color: #bf8f00;">Co-Investigator</span>, contributed to drafting the <i><span style="color: #ffc000;">full proposal</span></i>.</li>
 </ul>
-
-  
-  <li>
-    <b>UGC General Research Fund (~1.4m HKD) &emsp;&emsp;&emsp;&emsp; 2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b>
-    <ul>
-      <li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li>
-      <li><b>Role:</b> <span style="color: #bf8f00;">Co-Investigator</span>, contributed to drafting the <i><span style="color: #ffc000;">full proposal</span></i>.</li>
-    </ul>
-  </li>
 
 
   

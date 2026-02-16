@@ -30,7 +30,7 @@ Approved/Pending
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
-  <font size=3><b>2.	ITC Mainland-Hong Kong Cooperation Funding Scheme (~2m HKD)</b></font>
+  <font size=3><b>2. ITC Mainland-Hong Kong Cooperation Funding Scheme (~2m HKD)</b></font>
   <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
@@ -39,7 +39,7 @@ Approved/Pending
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
-  <font size=3><b>2.	ITC Mainland-Hong Kong Cooperation Funding Scheme (~3.2m HKD)</b></font>
+  <font size=3><b>3. ITC Mainland-Hong Kong Cooperation Funding Scheme (~3.2m HKD)</b></font>
   <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">

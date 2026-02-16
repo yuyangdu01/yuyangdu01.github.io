@@ -17,11 +17,10 @@ a {
 
 Approved/Pending
 ------
+<p style="text-align: justify;"><font size=3> I have contributed to the following approved/pending applications, including 1 <b>GRF</b> from HK UGC, 1 <b>ITSP</b> and 2 <b>MHKTCFS</b> from HK ITC, and 1 <b>STIC</b> from Mainland China (a cross-boundary program with grant allocated to HK).</font></p>
 
 
 
-<p style="font-size: 18px; font-weight: bold; text-decoration: underline;">Approved/Pending</p>
-I have contributed to the following approved/pending applications, including 1 <b>GRF</b> from HK UGC, 1 <b>ITSP</b> and 2 <b>MHKTCFS</b> from HK ITC, and 1 <b>STIC</b> from Mainland China (a cross-boundary program with grant allocated to HK).
 
 <ol>
   <li>

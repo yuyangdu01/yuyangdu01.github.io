@@ -34,6 +34,17 @@ Approved/Pending
   <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <p style="text-align: justify;"><font size=3><li><b>Topic:</b>  SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font></p>
   <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>,led the drafting of the <i>HK-side proposal</i> and <i>coordination with industry sponsors</i>.</li></font></p>
 </ul>
+
+<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
+  <font size=3><b>2.	ITC Mainland-Hong Kong Technology Cooperation Funding Scheme (~3.2m HKD)</b></font>
+  <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
+</li>
+<ul style="margin-left: 1.5em;">
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>,led the drafting of the <i>HK-side proposal</i> and <i>coordination with industry sponsors</i>.</li></font></p>
+</ul>
+
+

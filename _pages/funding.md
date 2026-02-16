@@ -73,6 +73,6 @@ Completed
   <font size=3><b>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Academia-Industry Collaboration for LLM Education: Hands-on Experiences and Co-Training Opportunities</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Key Member</span>, contributed to drafting the full proposal, led the project execution, and prepared the project completion report.</li></font></p>
 </ul>

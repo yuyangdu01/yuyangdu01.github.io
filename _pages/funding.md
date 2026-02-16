@@ -63,3 +63,16 @@ Approved/Pending
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT</li></font></p>
   <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the HK-side proposal and led the project executions.</li></font></p>
 </ul>
+
+Completed
+------
+<p style="text-align: justify;"><font size=3> The following projects have been successfully completed with meaningful research outcomes.</font></p>
+
+<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
+  <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
+  <font size=3><b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b></font>
+</li>
+<ul style="margin-left: 1.5em;">
+  <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font></p>
+</ul>

@@ -43,7 +43,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors..</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font></p>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">

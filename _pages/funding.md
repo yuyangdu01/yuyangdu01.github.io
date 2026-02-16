@@ -17,10 +17,10 @@ I have contributed to the following approved/pending applications, including 1 <
 
 <ol>
   <li>
-    UGC General Research Fund (~1.4m HKD)                                      2026-2029 (Pending)
+    <b>UGC General Research Fund (~1.4m HKD) &emsp;&emsp;&emsp;&emsp; 2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b>
     <ul>
-      <li>Topic: </li>
-      <li>Role: </li>
+      <li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li>
+      <li><b>Role:</b> <span style="color: #bf8f00;">Co-Investigator</span>, contributed to drafting the <i><span style="color: #ffc000;">full proposal</span></i>.</li>
     </ul>
   </li>
   <li>

@@ -7,7 +7,16 @@ redirect_from:
   - /markdown.html
 ---
 
-Since 2023, I have been playing a key role in the preparation and execution of major funding projects within the group, accumulating to a total of **~32.7 million HKD** in past applications. Among these, **~11.4 million HKD** are currently approved or pending for results. I also gained hands-on experience in preparing large-scale collaborative proposals in CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, and Aalborg University.
+<style>
+a {
+    text-decoration: none !important;
+}
+</style>
+
+<p style="text-align: justify;"><font size=3> Since 2023, I have been playing a key role in the preparation and execution of major funding projects within the group, accumulating to a total of **~32.7 million HKD** in past applications. Among these, **~11.4 million HKD** are currently approved or pending for results. I also gained hands-on experience in preparing large-scale collaborative proposals in CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, and Aalborg University.</font></p>
+
+
+
 
 
 <p style="font-size: 18px; font-weight: bold; text-decoration: underline;">Approved/Pending</p>

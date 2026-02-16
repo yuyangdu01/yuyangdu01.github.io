@@ -13,11 +13,11 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3> Since 2023, I have been playing a key role in the preparation and execution of major funding projects within the group, accumulating to a total of <b>~32.7 million HKD</b> in past applications. Among these, <b>~11.4 million HKD</b> are currently approved or pending for results. I also gained hands-on experience in preparing large-scale collaborative proposals in CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, Aalborg University, and Singapore University of Technology and Design.</font></p>
+<p style="text-align: justify;"><font size=3>Since 2023, I have been playing a key role in the preparation and execution of major funding projects within the group, accumulating to a total of <b>~32.7 million HKD</b> in past applications. Among these, <b>~11.4 million HKD</b> are currently approved or pending for results. I also gained hands-on experience in preparing large-scale collaborative proposals in CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, Aalborg University, and Singapore University of Technology and Design.</font></p>
 
 Approved/Pending
 ------
-<p style="text-align: justify;"><font size=3> I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
+<p style="text-align: justify;"><font size=3>I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
   <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
@@ -66,7 +66,7 @@ Approved/Pending
 
 Completed
 ------
-<p style="text-align: justify;"><font size=3> The following projects have been successfully completed with meaningful research outcomes.</font></p>
+<p style="text-align: justify;"><font size=3>The following projects have been successfully completed with meaningful research outcomes.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
   <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>

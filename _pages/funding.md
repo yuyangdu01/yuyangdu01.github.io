@@ -23,7 +23,7 @@ Approved/Pending
   <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
   <font size=3><b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
-<ul style="margin-left: 1.5em;">
+<ul style="margin-left: 1.5em; margin-top: 0px;">
   <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font>
   <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font>
 </ul>

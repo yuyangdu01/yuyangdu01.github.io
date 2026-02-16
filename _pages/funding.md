@@ -48,7 +48,7 @@ Approved/Pending
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
   <font size=3><b>4. ITC Innovation and Technology Support Program (~1.4m HKD)</b></font>
-  <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Conditionally Approved</span>)</b></font>
+  <font size=3><b>2026-2028 (<span style="color: #3a7c22;">Approved</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font></p>
@@ -57,7 +57,7 @@ Approved/Pending
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
   <font size=3><b>5. STIC SZ-HK Science and Technology Collaboration Fund (~3.4m HKD)</b></font>
-  <font size=3><b>2024-2027 (<span style="color: #2e74b5;">Approved</span>)</b></font>
+  <font size=3><b>2024-2027 (<span style="color: #3a7c22;">Approved</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT</li></font></p>

@@ -29,19 +29,5 @@ Approved/Pending
   <li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the <i>full proposal</i>.</li>
 </ul>
 
-
-  
-  <li>
-    ITC Mainland-Hong Kong Technology Cooperation Funding Scheme (~2m HKD)      2026-2028 (Pending)
-  </li>
-  <li>
-    ITC Mainland-Hong Kong Technology Cooperation Funding Scheme (~3.2m HKD)    2026-2028 (Pending)
-  </li>
-  <li>
-    ITC Innovation and Technology Support Program (~1.4m HKD)       2026-2028 (Conditionally Approved)
-  </li>
-  <li>
-    STIC SZ-HK Science and Technology Collaboration Fund (~3.4m HKD)            2024-2027 (Approved)
-  </li>
 </ol>
 

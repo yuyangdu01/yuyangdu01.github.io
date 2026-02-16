@@ -19,12 +19,12 @@ Approved/Pending
 ------
 <p style="text-align: justify;"><font size=3>I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
-<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
+<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
   <font size=3><b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font><br>
+  <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font>
   <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font>
 </ul>
 
@@ -33,7 +33,7 @@ Approved/Pending
   <font size=3><b>2026-2028 (<span style="color: #2e74b5;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
-  <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font><br>
+  <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font>
   <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font>
 </ul>
 

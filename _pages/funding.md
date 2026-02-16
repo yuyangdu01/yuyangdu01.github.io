@@ -26,7 +26,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the <i>full proposal</i>.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font></p>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
@@ -35,7 +35,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, draft the <i>full proposal</i> and <i>coordinate with industry sponsors</i>.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font></p>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
@@ -44,7 +44,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, draft the <i>full proposal</i> and <i>coordinate with industry sponsors</i>.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, led the drafting of the full proposal and coordination with industry sponsors..</li></font></p>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
@@ -53,6 +53,6 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font></p>
-  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, draft the <i>full proposal</i>.</li></font></p>
+  <p style="text-align: justify;"><font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>,  led the drafting of the full proposal.</li></font></p>
 </ul>
 

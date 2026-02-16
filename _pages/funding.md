@@ -26,7 +26,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em;">
   <li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li>
-  <li><b>Role:</b> <span style="color: #bf8f00;">Co-Investigator</span>, contributed to drafting the <i><span style="color: #ffc000;">full proposal</span></i>.</li>
+  <li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the <i>full proposal</i>.</li>
 </ul>
 
 

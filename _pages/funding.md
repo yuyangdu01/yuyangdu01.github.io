@@ -69,8 +69,8 @@ Completed
 <p style="text-align: justify;"><font size=3>The following projects have been successfully completed with meaningful research outcomes.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none; margin-bottom: 0.5em;">
-  <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
-  <font size=3><b>2026-2029 (<span style="color: #2e74b5;">Pending</span>)</b></font>
+  <font size=3><b>1. UGC Funding Scheme for Innovative Technology in Education (~0.3m HKD)</b></font>
+  <font size=3><b>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em;">
   <p style="text-align: justify;"><font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font></p>

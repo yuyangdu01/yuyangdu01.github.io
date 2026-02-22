@@ -10,7 +10,7 @@ redirect_from:
 <style>
 .mentorship a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
 }
 </style>
 

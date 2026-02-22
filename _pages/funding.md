@@ -69,7 +69,16 @@ Completed
 <p style="text-align: justify;"><font size=3>The following projects have been successfully completed with meaningful research outcomes.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
-  <font size=3><b>1. UGC Funding Scheme for Innovative Technology in Education (~0.3m HKD)</b></font>
+  <font size=3><b>1. UGC Funding Scheme for Innovative Technology in Education (~300k HKD)</b></font>
+  <font size=3><b>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</b></font>
+</li>
+<ul style="margin-left: 1.5em; margin-top: 6px;">
+  <font size=3><li><b>Topic:</b> Academia-Industry Collaboration for LLM Education: Hands-on Experiences and Co-Training Opportunities</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Key Member</span>, contributed to drafting the full proposal, led the project execution, and prepared the project completion report.</li></font>
+</ul>
+
+<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
+  <font size=3><b>2. UGC Funding Scheme for Innovative Technology in Education (~300k HKD)</b></font>
   <font size=3><b>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">

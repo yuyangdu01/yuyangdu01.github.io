@@ -37,6 +37,32 @@ Teaching
 * <font size=3>Laboratory Tutor, Electronic Circuit Design Laboratory (IERG1810), CUHK, 2022 Fall/2023 Spring</font>
 * <font size=3>Laboratory Tutor, Information and Software Engineering Practice (IERG3080), CUHK, 2024 Fall</font>
 
+Mentorship
+------
+<div class="mentorship">
+
+<style>
+.mentorship a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.mentorship a:hover {
+    text-decoration: underline;
+}
+</style>
+
+<font size=3>I have been advising CUHK final-year projects since 2023. Starting from 2024, I have had the honor to work with talented students and research assistants from the Institute of Network Coding at IE Department, CUHK (led by Prof. Soung Chang Liew) and Institute of Medical Intelligence at CSE Department, CUHK (led by Prof. Pheng Ann Heng). A list of my mentees is as follows:</font>
+
+* <font size=3> <b>PhD Student</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a> (IE), <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a> (IE), <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a> (IE), <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a> (IE), Yuchen Pan (IE), Qun Yang (IE), <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a> (IE), <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a> (CSE), Yiyi Zhang (CSE), <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a> (CSE)</font>
+
+* <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
+
+* <font size=3> <b>Research Assistant</b>: Yue Zhan, Yining Du, Haomin Qi, Jingqi Lin, Lihao Zhang, Qiying Hu, Xingyu Chen</font>
+
+* <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>
+
+</div>
 
 Mentorship
 ------

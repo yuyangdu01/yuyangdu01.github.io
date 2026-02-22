@@ -30,6 +30,7 @@ Review
           
 Teaching
 ------
+I have had the honor of working with talented students and research assistants from the IE Department and CSE Department at CUHK.
 * <font size=3>Undergraduate Teaching Assistant, Digital Circuit (Prof. Wu Luo), PKU, 2018 Fall</font>
 * <font size=3>Graduate Teaching Assistant, Linear Algebra (ENGG1120), CUHK, 2021 Spring</font>
 * <font size=3>Graduate Teaching Assistant, Computer Networks (IERG3310), CUHK, 2021 Fall /2023 Fall</font>

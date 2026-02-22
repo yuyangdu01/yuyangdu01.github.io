@@ -38,6 +38,19 @@ Teaching
 * <font size=3>Laboratory Tutor, Information and Software Engineering Practice (IERG3080), CUHK, 2024 Fall</font>
 
 
+
+
+
+
+
+<style>
+.mentorship a {
+  color: inherit;
+  text-decoration: none;
+}
+</style>
+
+<div class="mentorship">
 Mentorship
 ------
 <font size=3>I have been advising CUHK final-year projects since 2023. Starting from 2024, I have had the honor to work with talented students and research assistants from the Institute of Network Coding at IE Department, CUHK (led by Prof. Soung Chang Liew) and Institute of Medical Intelligence at CSE Department, CUHK (led by Prof. Pheng Ann Heng). A list of my mentees is as follows:</font>
@@ -45,3 +58,5 @@ Mentorship
 * <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
 * <font size=3> <b>Research Assistant</b>: Yue Zhan, Yining Du, Haomin Qi, Jingqi Lin, Lihao Zhang, Qiying Hu, Xingyu Chen</font>
 * <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>
+</div>
+

@@ -44,7 +44,7 @@ Publications
 
 <font size=3><b>Thesis</b></font>
 <ul style="margin-left: 0.0em;">
-  <li><font size=3>Du, Y., "Advanced Multiple Access Techniques for Ultra-Reliable Low-Latency Communications", Ph.D. Dissertation, The Chinese University of Hong Kong, 2025. [<a href="https://yuyangdu01.github.io/files/thesis_final.pdf">pdf</a>]</font><br> <font size=2><span style="color: #717375;">Thesis Committee: Prof. Guoliang Xing (Chair), Prof. Soung Chang Liew (Supervisor), Prof. Wing Cheong Lau, Prof. Tat Ming Lok, Prof. Tony Q.S. Quek (External Examiner, SUTD)</span></font></li>
+  <li><font size=3>Du, Y., "Advanced Multiple Access Techniques for Ultra-Reliable Low-Latency Communications", Ph.D. Dissertation, The Chinese University of Hong Kong, 2025. [<a href="https://yuyangdu01.github.io/files/thesis_final.pdf">pdf</a>]</font><br> <font size=2><span style="color: #717375;">Thesis Committee: Prof. Guoliang Xing (Committee Chair), Prof. Soung Chang Liew (Thesis Supervisor), Prof. Wing Cheong Lau, Prof. Tat Ming Lok, Prof. Tony Q.S. Quek (External Examiner, SUTD)</span></font></li>
 </ul>
 
 <font size=3><b>Patent</b></font>

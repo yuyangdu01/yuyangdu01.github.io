@@ -43,7 +43,7 @@ Publications
 * <font size=3><span style="color: #bf4d14;">[A1]</span> <u>Chen, K.</u>, Li, J., Wang, K., <b>Du, Y.</b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." &nbsp;<a href="https://arxiv.org/abs/2311.10776">https://arxiv.org/abs/2311.10776</a></font>  
 
 <font size=3><b>Thesis</b></font>
-* <font size=3>Du, Y., "Advanced Multiple Access Techniques for Ultra-Reliable Low-Latency Communications", Ph.D. Dissertation, The Chinese University of Hong Kong, 2025. [<a href="https://yuyangdu01.github.io/files/thesis_final.pdf">pdf</a>]</font> <font size=2><span style="color: #717375;">Thesis Committee: Prof. Guoliang Xing (Chair), Prof. Soung Chang Liew (Supervisor), Prof. Wing Cheong Lau, Prof. Tat Ming Lok, Prof. Tony Q.S. Quek (External Examiner, SUTD)</span></font>
+* <font size=3>Du, Y., "Advanced Multiple Access Techniques for Ultra-Reliable Low-Latency Communications", Ph.D. Dissertation, The Chinese University of Hong Kong, 2025. [<a href="https://yuyangdu01.github.io/files/thesis_final.pdf">pdf</a>]</font><br><font size=2><span style="color: #717375;">Thesis Committee: Prof. Guoliang Xing (Chair), Prof. Soung Chang Liew (Supervisor), Prof. Wing Cheong Lau, Prof. Tat Ming Lok, Prof. Tony Q.S. Quek (External Examiner, SUTD)</span></font>
 
 <font size=3><b>Patent</b></font>
 * <font size=3><span style="color: #ffbf00;">[P2]</span> Liew, S. C., Zhang, F., <b>Du, Y.</b>, Chen, K. "An Image Semantic Communication Method Based on Multimodal Large Language Models", CN Application No: 202411403556.5</font>

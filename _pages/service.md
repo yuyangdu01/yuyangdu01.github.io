@@ -46,7 +46,7 @@ Teaching
 
 Mentorship
 ------
-<font size=3>I have been advising CUHK final-year projects since 2023. Starting from 2024, I have had the honor to work with talented students and research assistants from the Institute of Network Coding at IE Department, CUHK (led by Prof. Soung Chang Liew) and Institute of Medical Intelligence at CSE Department, CUHK (led by Prof. Pheng Ann Heng). A list of my mentees is as follows:</font>
+<font size=3>I have had the honor to work with talented students and research assistants from the Institute of Network Coding at IE Department, CUHK (led by Prof. Soung Chang Liew) and Institute of Medical Intelligence at CSE Department, CUHK (led by Prof. Pheng Ann Heng). A list of my mentees is as follows:</font>
 
 <div class="mentorship" markdown="1">
 * <font size=3> <b>PhD Student</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a> (IE), <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a> (IE), <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a> (IE), <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a> (IE), Yuchen Pan (IE), Qun Yang (IE), <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a> (IE), <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a> (CSE), Yiyi Zhang (CSE), <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a> (CSE)</font>

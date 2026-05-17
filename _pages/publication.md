@@ -23,6 +23,8 @@ Publications
 * <font size=3><span style="color: #3a7c22;">[J1]</span> Shao, Y., Liew, S. C., Chen, H., <b>Du, Y.</b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." &nbsp;IEEE Transactions on Communications, 2021.</font>
 
 <font size=3><b>Conferences</b></font>
+* <font size=3><span style="color: #0f4761;">[C14]</span> <u>Pan, Y.</u>, <b>Du, Y.</b>, Wang, Y., Xu, S., Zhang, L., Liew, S. C., "Real-Time Cross-Layer Semantic Error Correction Using Language Models and Software-Defined Radio." &nbsp;ACM MobiSys 2026.</font>
+* <font size=3><span style="color: #0f4761;">[C13]</span> <u>Xu, S.</u>, <b>Du, Y.</b>, Zhang, M., Cui, H., Liew, S. C., "LightGuard: Transparent WiFi Security via Physical-Layer LiFi Key Bootstrapping." &nbsp;ACM MobiSys 2026.</font>
 * <font size=3><span style="color: #0f4761;">[C12]</span> Dang, X., Chen, K., Su, X., Noori, A., Arango, I., Vittor, L., Long, X., <b>Du, Y.</b>, Zitnik, M., Heng, P. A., "KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning." &nbsp;ICLR 2026.</font>
 * <font size=3><span style="color: #0f4761;">[C11]</span> <u>Qi, H.</u>*, <b>Du, Y.</b>*, Zhang, L., Liew, S. C., Chen, K., Du, Y., "VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair." &nbsp;IEEE ISQED 2026.</font>
 * <font size=3><span style="color: #0f4761;">[C10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Xiang, Y., Liu, X., Liew, S. C., "SA-OOSC: A Multimodal LLM-Distilled Semantic Communication Framework for Enhanced Coding Efficiency with Scenario Understanding." &nbsp;IEEE ICNC 2026.</font>
@@ -37,8 +39,6 @@ Publications
 * <font size=3><span style="color: #0f4761;">[C1]</span> <b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." &nbsp;IEEE UEMCON 2019.</font>
 
 <font size=3><b>Arxiv Preprints</b></font>
-* <font size=3><span style="color: #bf4d14;">[A8]</span> <u>Pan, Y.</u>, <b>Du, Y.</b>, Wang, Y., Xu, S., Zhang, L., Liew, S. C., "Real-Time Cross-Layer Semantic Error Correction Using Language Models and Software-Defined Radio." &nbsp;<a href="https://arxiv.org/abs/2604.08419">https://arxiv.org/abs/2604.08419</a></font>
-* <font size=3><span style="color: #bf4d14;">[A7]</span> <u>Xu, S.</u>, <b>Du, Y.</b>, Zhang, M., Cui, H., Liew, S. C., "LightGuard: Transparent WiFi Security via Physical-Layer LiFi Key Bootstrapping." &nbsp;<a href="https://arxiv.org/abs/2604.01092">https://arxiv.org/abs/2604.01092</a></font>
 * <font size=3><span style="color: #bf4d14;">[A6]</span> <u>Wang, Y.</u>, <b>Du, Y.</b>#, Liew, S. C.#, Pan, Y., Zhang, F., Zhang, L., "CL-SEC: Cross-Layer Semantic Error Correction Empowered by Language Models." &nbsp;<a href="https://arxiv.org/abs/2603.26125">https://arxiv.org/abs/2603.26125</a></font>
 * <font size=3><span style="color: #bf4d14;">[A5]</span> <u>Wang, L.</u>*, <b>Du, Y.</b>*#, Pan, Y., Liew, S. C.#, Chen, K., Liu, J., "OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference." &nbsp;<a href="https://arxiv.org/abs/2512.03927">https://arxiv.org/abs/2512.03927</a></font>
 * <font size=3><span style="color: #bf4d14;">[A4]</span> <u>Xu, S.</u>, <u>Zhang, L.</u>, <b>Du, Y.</b>, Yang, Q., Liew, S. C., "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications." &nbsp;<a href="https://arxiv.org/abs/2509.06119">https://arxiv.org/abs/2509.06119</a></font>

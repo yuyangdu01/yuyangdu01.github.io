@@ -25,7 +25,8 @@ News <font size=3></font>
 * <font size=3><b>2026-04</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) accepted by <b>Mobisys'26</b>.</font>
 * <font size=3><b>2026-04</b>: One paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2026-03</b>: <a href="https://arxiv.org/abs/2603.26125">CL-SEC</a>, an LLM-powered cross-layer semantic error correction framework, is now on Arxiv.</font>
-* <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, and <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> are accepted by <b>ISQED'26</b>, <b>ICNC'26</b>, and <b>ICLR'26</b>, respectively.</font>
+* <font size=3><b>2026-02</b>: <a href="https://arxiv.org/abs/2507.15664"> <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is accepted by <b>ICLR'26</b>, respectively.</font>
+* <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> and <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> are accepted by <b>ISQED'26</b> and <b>ICNC'26</b>, respectively.</font>
 * <font size=3><b>2025-11</b>: Distributed edge MoE inference framework <a href="https://arxiv.org/abs/2512.03927">OD-MoE</a> is available on Arxiv.</font>
 * <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on Arxiv; <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25</b>.</font>
 * <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119">Industrial Robotic Network</a> is available on Arxiv.</font>

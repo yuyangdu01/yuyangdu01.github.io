@@ -18,7 +18,7 @@ a {
 
 <p style="text-align: justify;"><font size=3>I develop intelligent mobile systems, with applications in industrial automation and smart healthcare. Communication and computation form the foundation of these systems. My recent work addresses two key challenges: 1) <b>cost-effective generative AI for resource-constrained edge devices</b>, and 2) <b>reliable, low-latency communication for real-time mobile applications</b>. My toolkit for building such systems includes efficient LLM serving, task-oriented communication, network optimization, and robotics.</font></p>
 
-<p style="text-align: justify;"><font size="3"><b>*Opening*</b> I am expected to join the Department of Electrical and Computer Engineering at The University of Hong Kong (HKU-ECE) as a Research Assistant Professor. We are looking for full-time RAs and postdocs to work on LLM-empowered wireless networking and edge inference serving. Interested candidates are welcome to contact me.</font></p>
+<p style="text-align: justify;"><font size="3"><b>*Opening!*</b> I am expected to join the Department of Electrical and Computer Engineering at The University of Hong Kong (HKU-ECE) as a Research Assistant Professor. We are looking for full-time RAs and postdocs to work on LLM-empowered wireless networking and edge inference serving. Interested candidates are welcome to contact me.</font></p>
 
 News <font size=3></font>
 ------

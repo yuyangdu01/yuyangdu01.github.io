@@ -55,6 +55,6 @@ Mentorship
 * <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
 * <font size=3> <b>CUHK Research Staff</b>: Yue Zhan, Yining Du, Lihao Zhang</font>
 * <font size=3> <b>Intern/Visiting Student</b>: Haomin Qi, Jingqi Lin, Xingyu Chen</font>
-* <font size=3> <b>CUHK Final Year Project</b>: Ka Hin (Aaron) Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
+* <font size=3> <b>CUHK Final Year Project</b>: Ka Hin Aaron Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
 </div>
 

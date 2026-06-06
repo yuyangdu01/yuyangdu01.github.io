@@ -51,10 +51,10 @@ Mentorship
 <p><font size="3">During my academic journey, I have had the honor of working with many talented students and research staff. A list of my mentees is as follows:</font></p>
 
 <div class="mentorship" markdown="1">
-* <font size=3> <b>PhD Student</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a> (IE), <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a> (IE), <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a> (IE), <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a> (IE), Yuchen Pan (IE), Qun Yang (IE), <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a> (IE), <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a> (CSE), Yiyi Zhang (CSE), <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a> (CSE)</font>
-* <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
+* <font size=3> <b>PhD Students</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a> (IE), <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a> (IE), <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a> (IE), <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a> (IE), Yuchen Pan (IE), Qun Yang (IE), <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a> (IE), <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a> (CSE), Yiyi Zhang (CSE), <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a> (CSE)</font>
+* <font size=3> <b>Master Students</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
 * <font size=3> <b>CUHK Research Staff</b>: Yue Zhan, Yining Du, Lihao Zhang</font>
-* <font size=3> <b>Intern/Visiting Student</b>: Haomin Qi, Jingqi Lin, Xingyu Chen</font>
-* <font size=3> <b>CUHK Final Year Project</b>: Ka Hin Aaron Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
+* <font size=3> <b>Interns/Visiting Students</b>: Haomin Qi, Jingqi Lin, Xingyu Chen</font>
+* <font size=3> <b>CUHK Final Year Project Students</b>: Ka Hin Aaron Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
 </div>
 

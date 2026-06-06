@@ -47,7 +47,7 @@ Approved/Pending
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
-  <font size=3><b>4. 4.	ITC ITSP Seed Project (~3m HKD with RTH matching)</b></font>
+  <font size=3><b>4. ITC ITSP Seed Project (~3m HKD with RTH matching)</b></font>
   <font size=3><b>2026-2028 (<span style="color: #3a7c22;">Approved</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">

@@ -46,5 +46,4 @@ Teaching
 
 * <font size=3> <b>Interns/Visiting Students</b>: Haomin Qi, Jingqi Lin, Xingyu Chen</font>
 * <font size=3> <b>CUHK Final Year Project Students</b>: Ka Hin Aaron Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
-</div>
 

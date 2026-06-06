@@ -33,6 +33,9 @@ main:
   - title: "Services"
     url: /service/
 
+  - title: "Mentorship"
+    url: /mentorship/
+
   - title: "Funding"
     url: /funding/
 

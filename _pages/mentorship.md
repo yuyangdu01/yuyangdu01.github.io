@@ -15,7 +15,6 @@ redirect_from:
 </style>
 
 
-Mentorship
 ------
 <p><font size="3">I am a member of the Advanced Wireless Systems Group (<a href="https://wireless.ie.cuhk.edu.hk/">AWSG</a>) and affiliated with the Institute of Network Coding (<a href="https://www.inc.cuhk.edu.hk/">INC</a>) in the Department of Information Engineering at CUHK, directed by Prof. Soung Chang Liew. I also work closely with the Institute of Medical Intelligence and XR  (<a href="https://imixr.cse.cuhk.edu.hk/">IMIXR</a>) in the Department of Computer Science and Engineering, directed by Prof. Pheng Ann Heng.</font></p>
 

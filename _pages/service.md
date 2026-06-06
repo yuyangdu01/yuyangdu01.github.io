@@ -53,7 +53,8 @@ Mentorship
 <div class="mentorship" markdown="1">
 * <font size=3> <b>PhD Student</b>: <a href="https://scholar.google.com/citations?user=pUIWEZAAAAAJ">Feifan Zhang</a> (IE), <a href="https://scholar.google.com/citations?user=zHMaH24AAAAJ">Liujianfu Wang</a> (IE), <a href="https://scholar.google.com/citations?user=-PdrGCIAAAAJ">Shiqi Xu</a> (IE), <a href="https://ieeexplore.ieee.org/author/37089175010">Yirun Wang</a> (IE), Yuchen Pan (IE), Qun Yang (IE), <a href="https://scholar.google.com/citations?user=o8vGH6kAAAAJ">Hongwei Cui</a> (IE), <a href="https://scholar.google.com/citations?user=wHMRoIUAAAAJ">Kexin Chen</a> (CSE), Yiyi Zhang (CSE), <a href="https://scholar.google.com/citations?user=XSQsbRsAAAAJ">Xilin Dang</a> (CSE)</font>
 * <font size=3> <b>Master Student</b>: Wenyuan Han, Zixuan Wei, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long, Hongxu Chen</font>
-* <font size=3> <b>Research Assistant</b>: Yue Zhan, Yining Du, Haomin Qi, Jingqi Lin, Lihao Zhang, Qiying Hu, Xingyu Chen</font>
-* <font size=3> <b>Final Year Project</b>: Chim Long You (2023), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Mingyue Zhang (2025), Ziheng Kang (2025)</font>
+* <font size=3> <b>CUHK Research Staff</b>: Yue Zhan, Yining Du, Lihao Zhang</font>
+* <font size=3> <b>Intern</b>: Haomin Qi, Jingqi Lin, Xingyu Chen</font>
+* <font size=3> <b>CUHK Final Year Project</b>: Ka Hin (Aaron) Xie (2026), Mingyue Zhang (2025), Ziheng Kang (2025), Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You (2023)</font>
 </div>
 

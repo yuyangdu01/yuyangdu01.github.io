@@ -21,7 +21,7 @@ Approved/Pending
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
-  <font size=3><b>2026-2029 (<span style="color: #5dade2;">Pending</span>)</b></font>
+  <font size=3><b>2026-2029 (<span style="color: #1f4e79;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font>
@@ -30,7 +30,7 @@ Approved/Pending
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>2. ITC MHKTCFS Platform Project (~4m HKD with RTH matching)</b></font>
-  <font size=3><b>2027-2029 (<span style="color: #5dade2;">Pending</span>)</b></font>
+  <font size=3><b>2027-2029 (<span style="color: #1f4e79;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font>
@@ -39,7 +39,7 @@ Approved/Pending
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>3. ITC MHKTCFS Platform Project (~6.4m HKD with RTH matching)</b></font>
-  <font size=3><b>2027-2029 (<span style="color: #1f4e79;">Short List</span>)</b></font>
+  <font size=3><b>2027-2029 (<span style="color: #5dade2;">Short List</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font>

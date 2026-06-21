@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+<p style="text-align: justify;"><font size=3>A list of my publications is as follow: </font></p>
+
 Publications  
 ------
 <font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a> <br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font><br><font size=3><b>Journals</b></font>

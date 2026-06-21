@@ -13,7 +13,7 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3> A list of my publications (by June 2026) is as follow. For my most updated publication records, please see my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a>.</font></p>
+<p style="text-align: justify;"><font size=3> A list of my publications (by June 2026) is as follow. For my most updated publication record, please see my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a>.</font></p>
 
 <font size=2><br>Note: * denotes equal contribution, # denotes corresponding author or project lead, <u>names underlined</u> represent students/research staffs I have mentored</font><br>
 <font size=3><b>Journals</b></font>

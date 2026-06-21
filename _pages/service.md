@@ -28,7 +28,7 @@ Review
         <li><font size=3>Elsevier: SP / DSP / PR / ADHIC / TELER / VLSIJ / AE / EAAI / COMNET / NEUNET / FGCS</font></li>
       </ul>
     </ul>
-  <li><font size=3>Conference Reviewers:</font></li>
+  <li><font size=3>Conference Reviewer:</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3> Communications / Networking Conferences: ICC'23, GLOBECOM'24, ICCC'24, WCNC'26</font></li>

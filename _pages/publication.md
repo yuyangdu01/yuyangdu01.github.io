@@ -15,7 +15,8 @@ a {
 
 <p style="text-align: justify;"><font size=3> A list of my publications (by June 2026) is as follow. For my most updated publication records, please see my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a>.</font></p>
 
-<font size=2><br>Note: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for mentee</font><br><font size=3><b>Journals</b></font>
+<font size=2><br>Note: * represents equal contribution, # represents corresponding author/project lead, names <u>underline</u> represents students/research staffs I have mentored</font><br>
+<font size=3><b>Journals</b></font>
 * <font size=3><span style="color: #3a7c22;">[J11]</span> <u>Wang, L.</u>*, <u>Lin, J.</u>*, <b>Du, Y.</b>*, Pan, Y., Chen, K., Liew, S. C., "Fine-Tuning Lightweight LLM for Enhanced Network Understanding: A Rephrase and Contrast Approach." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2026.</font>
 * <font size=3><span style="color: #3a7c22;">[J10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
 * <font size=3><span style="color: #3a7c22;">[J9]</span> <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>

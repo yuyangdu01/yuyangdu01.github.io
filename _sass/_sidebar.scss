@@ -91,7 +91,7 @@
 
   img {
     // Remy (2/2) max-width org 175px. Commented border-radius. 
-    max-width: 250px;
+    max-width: 240px;
     //border-radius: 50%;
 
     @include breakpoint($large) {

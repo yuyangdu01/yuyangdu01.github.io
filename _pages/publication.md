@@ -7,7 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-<p style="text-align: justify;"><font size=3>A list of my publications is as follow: </font></p>
+<style>
+a {
+    text-decoration: none !important;
+}
+</style>
+
+<p style="text-align: justify;"><font size=3>A list of my publications is as following: </font></p>
 
 Publications  
 ------

@@ -14,6 +14,8 @@ redirect_from:
 }
 </style>
 
+<p style="text-align: justify;"><font size=3>I have had the honor of serving in the following activities: </font></p>
+
 Review
 ------
 <ul>

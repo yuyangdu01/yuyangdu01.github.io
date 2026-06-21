@@ -13,7 +13,7 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3>A list of my publications is as following: </font></p>
+<p style="text-align: justify;"><font size=3>A list of my publications is as follow: </font></p>
 
 Publications  
 ------

@@ -79,9 +79,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 48px;
+  width: 36px;
   // set width only, for non-square avatars.  Remy (1/2) W&H org 36px
-  height: 48px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -91,7 +91,7 @@
 
   img {
     // Remy (2/2) max-width org 175px. Commented border-radius. 
-    max-width: 240px;
+    max-width: 200px;
     //border-radius: 50%;
 
     @include breakpoint($large) {

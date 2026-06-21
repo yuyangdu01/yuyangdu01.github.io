@@ -80,7 +80,7 @@
   display: table-cell;
   vertical-align: top;
   width: 48px;
-  // set width only, for non-square avatars.  Remy W&H org 36px
+  // set width only, for non-square avatars.  Remy (1/2) W&H org 36px
   height: 48px;
 
   @include breakpoint($large) {
@@ -90,8 +90,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    // Remy (2/2) max-width org 175px. Commented border-radius. 
+    max-width: 250px;
+    //border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;

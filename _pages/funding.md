@@ -23,7 +23,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal,  led the project executions, responsible for KPI delivery.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal, led the project executions, responsible for KPI delivery.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
@@ -32,7 +32,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to the HK-side proposal and annual project reports, led the HK-side project executions.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, contributed to the HK-side proposal, led the HK-side project executions, responsible for KPI delivery.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">

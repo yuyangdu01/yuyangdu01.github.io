@@ -25,7 +25,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> LLM-Empowered Self-Driving Lab for Automated Pharmaceutical Synthesis</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft of the full proposal and lead the execution of preliminary research..</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft of the full proposal, lead the execution of preliminary research, coordinate with industry sponsors.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
@@ -34,7 +34,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft the full proposal, coordinate with industry sponsors.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
@@ -43,7 +43,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, led the drafting of the full proposal and coordination with industry sponsors.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft the full proposal, coordinate with industry sponsors.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
@@ -52,7 +52,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, led the drafting of the full proposal.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft the full proposal and lead the project executions, responsible for KPI delivery.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">

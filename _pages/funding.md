@@ -27,7 +27,7 @@ Approved/Pending
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
-  <font size=3><b>2. STIC SZ-HK Science and Technology Collaboration Fund (~3.4m HKD)</b></font>
+  <font size=3><b>2. STIC SZ-HK Science and Technology Collaboration Fund, Type C (~3.4m HKD)</b></font>
   <font size=3><b>2024-2027 (<span style="color: #3a7c22;">Approved</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
@@ -43,8 +43,6 @@ Approved/Pending
   <font size=3><li><b>Topic:</b> Research and Validation of High-Reliability Transmission and Intelligent Assurance Technologies for Remote Surgery</li></font>
   <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal, coordinated with industry sponsors.</li></font>
 </ul>
-
-<p style="text-align: justify;"><font size=3>I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>4. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</b></font>

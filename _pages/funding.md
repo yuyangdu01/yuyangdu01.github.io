@@ -20,12 +20,12 @@ Approved/Pending
 <p style="text-align: justify;"><font size=3>I have contributed to the following approved/pending applications, including 1 GRF from HK UGC, 1 ITSP and 2 MHKTCFS from HK ITC, and 1 Type C project from STIC.</font></p>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
-  <font size=3><b>1. UGC General Research Fund (~1.4m HKD)</b></font>
-  <font size=3><b>2026-2029 (<span style="color: #1f4e79;">Pending</span>)</b></font>
+  <font size=3><b>2. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</b></font>
+  <font size=3><b>2028-2030 (<span style="color: #1f4e79;">Pending</span>)</b></font>
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
-  <font size=3><li><b>Topic:</b> Distributed MoE Inference at the 6G Edge: Ultra-Accurate Expert-Activation Prediction, Partial Expert Residency, and Dynamic Token Handling for Batched Systems</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-Investigator</span>, contributed to drafting the full proposal.</li></font>
+  <font size=3><li><b>Topic:</b> LLM-Empowered Self-Driving Lab for Automated Pharmaceutical Synthesis</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, draft of the full proposal and lead the execution of preliminary research..</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">

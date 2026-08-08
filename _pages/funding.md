@@ -13,7 +13,7 @@ a {
 }
 </style>
 
-<p style="text-align: justify;"><font size=3>Since 2023, I have had the opportunity to participate in the preparation and execution of multiple funding projects, amounting to a total of <b>~49.8 million HKD</b>. Among these, <b>~27.8 million HKD</b> are currently approved or awaiting results. I have also gained hands-on experience in preparing large-scale collaborative proposals for CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, Aalborg University, and Singapore University of Technology and Design.</font></p>
+<p style="text-align: justify;"><font size=3>Since 2023, I have had the opportunity to participate in the preparation and execution of multiple funding projects, amounting to a total of <b>~49.8 million HKD</b>. Among these, <b>~26.4 million HKD</b> are currently approved or awaiting results. I have also gained hands-on experience in preparing large-scale collaborative proposals for CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, Aalborg University, and Singapore University of Technology and Design.</font></p>
 
 Approved/Pending
 ------

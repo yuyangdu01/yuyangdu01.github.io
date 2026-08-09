@@ -50,6 +50,6 @@ News <font size=3></font>
   <div id="clustrmaps-widget" style="width:25%">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=od8a63akYTgethb2LTMdoPosPVSy4Zi_mwp0ihnijJE&cl=ffffff&w=a"></script>
   </div>
-  <font size=3> @Yuyang Du | Last updated: Mar 2026 </font>
+  <font size=3> @Yuyang Du | Last updated: Aug 2026 </font>
 </center></p>
 

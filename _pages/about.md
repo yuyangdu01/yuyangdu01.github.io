@@ -52,7 +52,7 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 ------
 <ul style="text-align: justify;">
   <li style="margin-bottom: 12px;">
-    <font size="3"><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I was a member of the Peking University cycling team (a.k.a., <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a>) during my undergraduate time. Even with a busy academic schedule after graduation, I stick to my daily training routine and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). In 2016, I completed my spic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China.</font>
+    <font size="3"><b>Cycling</b>: I am an avid cyclist. I was a member of <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a> from 2015-2019. Even with a busy academic schedule after graduation, I stick to my daily training and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). Apart from competitive racing, I also have a passion for long-distance adventures. I completed my spic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China, in 2016.</font>
   </li>
 
 <li style="margin-bottom: 12px;">

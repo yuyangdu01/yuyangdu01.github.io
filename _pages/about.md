@@ -60,12 +60,13 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 </li>
 
   <li style="margin-bottom: 12px;">
-    <font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
+  <font size="3"><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I successfully summited <a href="https://en.wikipedia.org/wiki/Mount_Siguniang">Mt. Siguniang</a> (Sichuan, 5,025m) on June 29, and <a href="https://baike.baidu.com/item/%E5%B2%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0/2753381">Mt. Gangshika</a> (Qinghai, 5,005m) shortly after on August 15. Currently, I am learning rock climbing to prepare myself for more technical alpine climbs.</font>
   </li>
 
   <li style="margin-bottom: 12px;">
-  <font size="3"><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I successfully summited <a href="https://en.wikipedia.org/wiki/Mount_Siguniang">Mt. Siguniang</a> (Sichuan, 5,025m) on June 29, and <a href="https://baike.baidu.com/item/%E5%B2%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0/2753381">Mt. Gangshika</a> (Qinghai, 5,005m) shortly after on August 15. Currently, I am learning rock climbing to prepare myself for more technical alpine climbs.</font>
+    <font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
   </li>
+  
 </ul>
 
 

@@ -52,7 +52,7 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 ------
 <ul style="text-align: justify;">
 <li style="margin-bottom: 12px;">
-<font size="3"><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I proudly raced for <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a> during my undergraduate years (2015-2019). Even with a busy academic schedule after graduation, I stick to my daily training and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). In the summer of 2016, I completed an epic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China, setting off from the vast grasslands and traversing the <a href="https://en.wikipedia.org/wiki/Greater_Khingan">Greater Khingan Mountains</a>.</font>
+<font size="3"><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I proudly raced for <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a> during my undergraduate years (2015-2019). Even with a busy academic schedule after graduation, I stick to my daily training and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). In the summer of 2016, I completed an epic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China, setting off from the vast grasslands of Inner Mongolia and traversing the <a href="https://en.wikipedia.org/wiki/Greater_Khingan">Greater Khingan Mountains</a>.</font>
 </li>
 
 <li style="margin-bottom: 12px;">
@@ -68,8 +68,6 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 </li>
   
 </ul>
-
-
 
 
 <p><center>

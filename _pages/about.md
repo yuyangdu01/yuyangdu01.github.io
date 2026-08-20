@@ -17,8 +17,6 @@ a {
 
 <p style="text-align: justify;"><font size=3>Before my Ph.D., I was an engineer at Huawei <a href="https://www.hisilicon.com/en">2012 Lab</a>, where I worked on wireless signal processing algorithms for 5G modem power optimization on <a href="https://www.hisilicon.com/en/products/kirin/kirin-flagship-chips/kirin-9000">Kirin 9000</a>, one of the most advanced flagship 5nm SoCs at the time. In 2024-2025, I was a visiting scholar at <a href="https://seas.harvard.edu/">Harvard University</a>, where I worked on LLM reasoning and efficient inference with Prof. <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a> and Prof. <a href="https://minlanyu.seas.harvard.edu/">Minlan Yu</a>.</font></p>
 
-
-
 <p style="text-align: justify;"><font size=3>I develop intelligent mobile systems, with applications in industrial automation and smart healthcare. Communication and computation form the foundation of my systems. My recent work addresses two key challenges: 1) <b>cost-effective generative AI for resource-constrained edge devices</b>, and 2) <b>reliable, low-latency communication for real-time mobile applications</b>. My toolkit for building such systems includes efficient LLM serving, task-oriented communication, signal processing, network optimization, and robotics.</font></p>
 
 <p style="text-align: justify;"><font size="3"><b style="color: red;">*Upcoming Itinerary*</b> Starting in Fall 2026, I will be spending six months at the Department of Electrical and Computer Engineering, <a href="https://jacobsschool.ucsd.edu/"> UC San Diego</a> (UCSD), working with Prof. <a href="https://jacobsschool.ucsd.edu/people/profile/nuria-gonzalez-prelcic"> Nuria Gonzalez-Prelcic</a>. I look forward to fruitful academic discussions and cultural exchanges during my stay in California!</font></p>
@@ -57,12 +55,12 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
     <font size="3"><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I was a member of the Peking University cycling team (a.k.a., <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a>) during my undergraduate time. Even with a busy academic schedule after graduation, I stick to my daily training routine and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). In 2016, I completed my spic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China.</font>
   </li>
 
-  <li style="margin-bottom: 12px;">
-    <font size="3"><b>Trekking</b>: I deeply enjoy hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage from Yunan to Tibit. I consider myself an incredibly lucky guy blessed by the mountains - I was fortunate enough to catch the cloudless views of the following mountains in my trips: Kawagarbo (in Bingchacha), Minya Konka (in Garzê), and Yaomei Peak (in Ngawa), all of which are notoriously elusive and considered blessed.</font>
-  </li>
+<li style="margin-bottom: 12px;">
+  <font size="3"><b>Trekking</b>: I deeply enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage from Yunnan to Tibet. I consider myself an incredibly lucky guy favored by the mountains—I was fortunate enough to catch breathtaking, cloudless views of Kawagarbo (along the Bingchacha route), Minya Konka (in Garzê), and Yaomei Peak (in Ngawa). All of these peaks are notoriously elusive, and witnessing them is considered a true blessing.</font>
+</li>
 
   <li style="margin-bottom: 12px;">
-    <font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been actively skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
+    <font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
   </li>
 
   <li style="margin-bottom: 12px;">

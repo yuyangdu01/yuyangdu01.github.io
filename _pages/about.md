@@ -46,6 +46,20 @@ News <font size=3></font>
 * <font size=3><b>2025-02</b>: <a href="https://ieeexplore.ieee.org/abstract/document/10993716">RaC</a>, a SFT framework for networking agents, is accepted by <b>ICNC'25</b>.</font>
 * <font size=3><b>2025-01</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework for ethical alignment, is available on Arxiv.</font>
 
+
+
+
+
+Beyond Research <font size=3></font>
+------
+<font size=3><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I was a member of the Peking University cycling team (a.k.a., Team PKU). ven with a busy academic schedule, I stick to my daily training routine and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). I completed my bike tour to Mohe, the northernmost city in China, in 2016. Feel free to check out my riding moments in my <a href="coming soon">[gallery]</a>.</font>
+
+* <font size=3><b>Mountaineering & Trekking</b>: Starting from May 2026, I have become fascinated by high-altitude trekking and snow mountain climbing. You can visit my <a href="coming soon">[gallery]</a> to explore my trekking logs in Changping Valley and the rugged Bingchacha route, alongside my summit records at Mt. Siguniang (Sichuan, 5,025m) and Mt. Gangshika (Qinghai, 5,005m).</font>
+
+* <font size=3><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been actively skiing across different continents, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024). Feel free to check out my skiing photos in the <a href="coming soon">[gallery]</a>.</font>
+
+
+
 <p><center>
   <br>
   <div id="clustrmaps-widget" style="width:25%">

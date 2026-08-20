@@ -52,14 +52,25 @@ News <font size=3></font>
 
 Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 ------
+<ul style="text-align: justify;">
+  <li style="margin-bottom: 12px;">
+    <font size="3"><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I was a member of the Peking University cycling team (a.k.a., <a href="https://xhslink.cn/m/jEdi7Eh4Tc">Team PKU</a>) during my undergraduate time. Even with a busy academic schedule after graduation, I stick to my daily training routine and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). I completed my bike tour to <a href="https://en.wikipedia.org/wiki/Mohe,_Heilongjiang">Mohe</a>, the northernmost city in China, in 2016.</font>
+  </li>
 
-* <font size=3><b>Cycling</b>: I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I was a member of the Peking University cycling team (a.k.a., Team PKU). Even with a busy academic schedule, I stick to my daily training routine and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). I completed my bike tour to Mohe, the northernmost city in China, in 2016.</font>
+  <li style="margin-bottom: 12px;">
+    <font size="3"><b>Trekking</b>: I deeply enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage in Yunan. I consider myself an incredibly lucky guy favored by the mountains - I was fortunate enough to catch breathtaking, cloudless views of Kawagarbo (on the Bingchacha route), Minya Konka (in Garzê), and Yaomei Peak (in Ngawa), all of which are notoriously elusive and considered blessed.</font>
+  </li>
 
-* <font size=3><b>Trekking</b>: I deeply enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage in Yunan. I consider myself an incredibly lucky guy favored by the mountains - I was fortunate enough to catch breathtaking, cloudless views of Kawagarbo (on the Bingchacha route), Minya Konka (in Garzê), and Yaomei Peak (in Ngawa), all of which are notoriously elusive.
+  <li style="margin-bottom: 12px;">
+    <font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been actively skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
+  </li>
 
-* <font size=3><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been actively skiing across different continents, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
+  <li style="margin-bottom: 12px;">
+    <font size="3"><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I have successfully summited <a href="https://en.wikipedia.org/wiki/Mount_Siguniang">Mt. Siguniang</a> (Sichuan, 5,025m) and <a href="https://baike.baidu.com/item/%E5%B2%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0/2753381">Mt. Gangshika</a> (Qinghai, 5,005m). Currently, I am learning rock climbing and bouldering, preparing myself for more technical alpine climbs.</font>
+  </li>
+</ul>
 
-* <font size=3><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I have successfully summited Mt. Siguniang (Sichuan, 5,025m) and Mt. Gangshika (Qinghai, 5,005m). Currently, I am learning rock climbing and bouldering, preparing myself for more technical alpine climbs.</font>
+
 
 <p><center>
   <br>

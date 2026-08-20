@@ -58,9 +58,9 @@ Beyond Research <font size=3></font>
 
 * <font size=3><b>Trekking</b>: I deeply enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage in Yunan. I consider myself an incredibly lucky guy favored by the mountains - I was fortunate enough to catch breathtaking, cloudless views of Kawagarbo (on the Bingchacha route), Minya Konka (in Garzê), and Yaomei Peak (in Ngawa), all of which are notoriously elusive. My moments with mountains are avaliable in the <a href="coming soon">[gallery]</a>.</font>
 
-* <font size=3><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I have successfully summited Mt. Siguniang (Sichuan, 5,025m) and Mt. Gangshika (Qinghai, 5,005m). Currently, I am learning rock climbing and bouldering, preparing myself for more technical alpine climbs like Mt. Qizi and Mt. Xuebaoding. Summit records are available in my <a href="coming soon">[gallery]</a>.</font>
-
 * <font size=3><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been actively skiing across different continents, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024). Feel free to check out my skiing photos in the <a href="coming soon">[gallery]</a>.</font>
+
+* <font size=3><b>Mountaineering</b>: Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I have successfully summited Mt. Siguniang (Sichuan, 5,025m) and Mt. Gangshika (Qinghai, 5,005m). Currently, I am learning rock climbing and bouldering, preparing myself for more technical alpine climbs like Mt. Qizi and Mt. Xuebaoding. Summit records are available in my <a href="coming soon">[gallery]</a>.</font>
 
 <p><center>
   <br>

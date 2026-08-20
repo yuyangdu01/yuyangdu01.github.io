@@ -64,8 +64,8 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 </li>
 
 <li style="margin-bottom: 12px;">
-<font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in Chongli (Spring 2023), Koktokay (Winter 2023), and Pats Peak in New Hampshire (Winter 2024).</font>
-  </li>
+<font size="3"><b>Alpine Skiing</b>: Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in <a href="https://en.wikipedia.org/wiki/Chongli_District">Chongli</a> (Spring 2023), <a href="https://baike.baidu.com/item/%E5%8F%AF%E5%8F%AF%E6%89%98%E6%B5%B7%E5%9B%BD%E9%99%85%E6%BB%91%E9%9B%AA%E5%9C%BA">Koktokay</a> (Winter 2023), and <a href="https://en.wikipedia.org/wiki/Pats_Peak">Pats Peak</a> in New Hampshire (Winter 2024).</font>
+</li>
   
 </ul>
 

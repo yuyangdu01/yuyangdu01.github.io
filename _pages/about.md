@@ -25,7 +25,7 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3><b>2026-08</b>: Three recent papers avaliable on Arxiv: <a href="https://arxiv.org/abs/2608.15207">Iterative CL-SEC</a>, <a href="https://arxiv.org/abs/2608.16100">TISC</a>, and an opinion <a href="https://arxiv.org/abs/2608.02341">paper</a> discussing WiFi boardcasting limit for edged LLM inference.</font>
+* <font size=3><b>2026-08</b>: Three recent papers available on Arxiv: <a href="https://arxiv.org/abs/2608.15207">Iterative CL-SEC</a>, <a href="https://arxiv.org/abs/2608.16100">TISC</a>, and an opinion <a href="https://arxiv.org/abs/2608.02341">paper</a> discussing WiFi broadcasting limit for edge LLM inference.</font>
 * <font size=3><b>2026-05</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) accepted by <b>Mobisys'26</b>.</font>
 * <font size=3><b>2026-04</b>: Our paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> is accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2026-03</b>: <a href="https://arxiv.org/abs/2603.26125">CL-SEC</a>, an LLM-powered cross-layer semantic error correction framework, is now on Arxiv.</font>

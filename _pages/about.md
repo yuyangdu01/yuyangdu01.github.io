@@ -25,8 +25,7 @@ a {
 
 News <font size=3></font>
 ------
-* <font size=3><b>2026-08</b>: Iterative CL-SEC (<a href="https://arxiv.org/abs/2608.15207">ICL-SEC</a>) is available on Arxiv.</font>
-* <font size=3><b>2026-08</b>: Our <a href="https://arxiv.org/abs/2608.02341">paper</a> on Wi-Fi broadcast limits for edge LLM inference is available on Arxiv.</font>
+* <font size=3><b>2026-08</b>: Three recent papers avaliable on Arxiv: <a href="https://arxiv.org/abs/2608.15207">Iterative CL-SEC</a>, <a href="https://arxiv.org/abs/2608.02341">KFC-V50</a>, and <a href="https://arxiv.org/abs/2608.16100">TISC</a> </font>
 * <font size=3><b>2026-05</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) accepted by <b>Mobisys'26</b>.</font>
 * <font size=3><b>2026-04</b>: Our paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> is accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2026-03</b>: <a href="https://arxiv.org/abs/2603.26125">CL-SEC</a>, an LLM-powered cross-layer semantic error correction framework, is now on Arxiv.</font>
@@ -56,7 +55,7 @@ Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
 </li>
   
 <li style="margin-bottom: 12px;">
-<font size="3"><b>Trekking</b>: I enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">Bingchacha</a> passage from Yunnan to Tibet. I consider myself an incredibly lucky guy favored by the mountains: I was fortunate enough to catch the cloudless views of <a href="https://en.wikipedia.org/wiki/Kawagarbo">Kawagarbo</a> (along the Bingchacha route), <a href="https://en.wikipedia.org/wiki/Mount_Gongga">Minya Konka</a> (in Garzê), and <a href="https://baike.baidu.com/item/%E5%B9%BA%E5%A6%B9%E5%B3%B0/1097145">Yaomei Peak</a> (in Ngawa). All of these peaks are notoriously elusive, and witnessing even a single one of them is considered a true blessing in Tibetan culture!</font>
+<font size="3"><b>Trekking</b>: I enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the unforgiving, rugged extremes of the <a href="https://baike.baidu.com/item/%E4%B8%99%E5%AF%9F%E5%AF%9F%E5%85%AC%E8%B7%AF/17558128">BingChaCha</a> passage from Yunnan to Tibet. I consider myself an incredibly lucky guy favored by the mountains: I was fortunate enough to catch the cloudless views of <a href="https://en.wikipedia.org/wiki/Kawagarbo">Kawagarbo</a> (along the Bingchacha route), <a href="https://en.wikipedia.org/wiki/Mount_Gongga">Minya Konka</a> (in Garzê), and <a href="https://baike.baidu.com/item/%E5%B9%BA%E5%A6%B9%E5%B3%B0/1097145">Yaomei Peak</a> (in Ngawa). All of these peaks are notoriously elusive, and witnessing even a single one of them is considered a true blessing in Tibetan culture!</font>
 </li>
 
 <li style="margin-bottom: 12px;">

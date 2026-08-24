@@ -47,7 +47,7 @@ News <font size=3></font>
 
 
 
-Beyond Research <a href="coming soon">[Gallery]</a> <font size=3></font>
+Beyond Research <a href="coming soon">[Gallery Coming Soon]</a> <font size=3></font>
 ------
 <ul style="text-align: justify;">
 <li style="margin-bottom: 12px;">

@@ -46,6 +46,7 @@ a {
 * <font size=3><span style="color: #0f4761;">[C1]</span> <b>Du, Y.</b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." &nbsp;IEEE UEMCON 2019.</font>
 
 <font size=3><b>Arxiv Preprints</b></font>
+* <font size=3><span style="color: #bf4d14;">[A10]</span> <u>Xu, S.</u>*, Liew, S. C., <b>Du, Y.</b>*, "SemABR: Measuring Video Semantic Fidelity with Multimodal LLMs for Adaptive Bitrate Streaming." &nbsp;<a href="https://arxiv.org/abs/2609.18075">https://arxiv.org/abs/2609.18075</a></font>
 * <font size=3><span style="color: #bf4d14;">[A9]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Liu, X., Liew, S. C., "TISC: A Text-Driven Image Semantic Communication System for Faithful Reconstruction." &nbsp;<a href="https://arxiv.org/abs/2608.16100">https://arxiv.org/abs/2608.16100</a></font>
 * <font size=3><span style="color: #bf4d14;">[A8]</span> <u>Wang, Y.</u>, Liew, S. C., <b>Du, Y.</b>"ICL-SEC: Iterative Cross-Layer Semantic Error Correction." &nbsp;<a href="https://arxiv.org/abs/2608.15207">https://arxiv.org/abs/2608.15207</a></font>
 * <font size=3><span style="color: #bf4d14;">[A7]</span> <u>Wang, L.</u>, <b>Du, Y.</b>, Xu, S., Liew, S. C., "Broadcast Rate Limits in Wi-Fi: A Forgotten Bottleneck for Collaborative Edge LLM Inference." &nbsp;<a href="https://arxiv.org/abs/2608.02341">https://arxiv.org/abs/2608.02341</a></font>

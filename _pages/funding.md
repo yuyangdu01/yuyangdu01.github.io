@@ -23,7 +23,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Multi-stream Ultra Reliable Networking and Just-in-Time Communications for High Performance IoT</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted 1/2 of the proposal (i.e., the HK side), led the project executions and responsible for all KPI delivery.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted 1/2 of the proposal (i.e., the HK side), led the project's executions and responsible for all KPI delivery.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
@@ -32,7 +32,7 @@ Approved/Pending
 </li>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
   <font size=3><li><b>Topic:</b> Multimodal LLM-Driven Semantic Communication for Vehicular Networks</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal, led the project executions, responsible for KPI delivery.</li></font>
+  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal, led the project's execution and responsible for all KPI delivery.</li></font>
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">

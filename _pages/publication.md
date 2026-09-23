@@ -17,7 +17,7 @@ a {
 
 <font size=2><br>Note: * denotes equal contribution, # denotes corresponding author or project lead, <u>names underlined</u> represent students/research staff I have mentored</font><br>
 <font size=3><b>Journals</b></font>
-* <font size=3><span style="color: #bf4d14;">[J12]</span> <u>Zhang, Y.</u>, <u>Chen, X.</u>, Chen, K., <b>Du, Y.</b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Reconciling Safety and Utility in Scientific Question Answering." &nbsp;Nature Communications, 2026</font>
+* <font size=3><span style="color: #bf4d14;">[J12]</span> <u>Zhang, Y.</u>, <u>Chen, X.</u>, Chen, K., <b>Du, Y.</b>#, Dang, X., Heng, P. A., "The Dual-use Dilemma in LLMs: Reconciling Safety and Utility in Scientific Question Answering." &nbsp;Nature Communications, 2026</font>
 * <font size=3><span style="color: #3a7c22;">[J11]</span> <u>Wang, L.</u>*, <u>Lin, J.</u>*, <b>Du, Y.</b>*, Pan, Y., Chen, K., Liew, S. C., "Fine-Tuning Lightweight LLM for Enhanced Network Understanding: A Rephrase and Contrast Approach." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2026.</font>
 * <font size=3><span style="color: #3a7c22;">[J10]</span> <u>Zhang, F.</u>*, <b>Du, Y.</b>*, Chen, K.*, Shao,Y., Liew, S. C., "Out-of-Distribution in Image Semantic Communication: A Solution with Multimodal Large Language Models." &nbsp;IEEE Transactions on Machine Learning in Communications and Networking, 2025.</font>
 * <font size=3><span style="color: #3a7c22;">[J9]</span> <u>Cui, H.</u>*, <b>Du, Y.</b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." &nbsp;IEEE Communications Magazine, 2025.</font>

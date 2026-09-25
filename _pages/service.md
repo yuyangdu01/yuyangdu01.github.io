@@ -16,7 +16,7 @@ redirect_from:
 
 <p style="text-align: justify;"><font size=3>I have had the honor of serving in the following activities: </font></p>
 
-Journal Service
+Journal Services
 ------
 <ul>
   <li><font size=3>Reviewer</font></li>

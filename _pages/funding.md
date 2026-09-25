@@ -45,15 +45,6 @@ Approved/Pending
 </ul>
 
 <li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
-  <font size=3><b>4. ITC MHKTCFS Platform Project (~4m HKD with RTH matching)</b></font>
-  <font size=3><b>2027-2029 (<span style="color: #1f4e79;">Pending</span>)</b></font>
-</li>
-<ul style="margin-left: 1.5em; margin-top: 6px;">
-  <font size=3><li><b>Topic:</b> SmartLink Industry 4.0: A Trusted Collaboration System for Industry 4.0 Integrating Large Models, Ultra-Reliable Low-Latency Networks, and Blockchain</li></font>
-  <font size=3><li><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the full proposal, coordinated with industry sponsors.</li></font>
-</ul>
-
-<li style="display: flex; justify-content: space-between; align-items: center; list-style-type: none;">
   <font size=3><b>5. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</b></font>
   <font size=3><b>2028-2030 (<span style="color: #1f4e79;">Pending</span>)</b></font>
 </li>

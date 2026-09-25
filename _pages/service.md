@@ -42,7 +42,7 @@ Conference Services
         <li><font size=3> AI / Robotic Conferences: ICRA'25, NeurIPS'25</font></li>
       </ul>
     </ul>
-    <li><font size=3>Program Committee Member: AAAI'26</font></li>
+    <li><font size=3>Program Committee Member: AAAI'26, VTC-Spring'26</font></li>
 </ul>  
 
           

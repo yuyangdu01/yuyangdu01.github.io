@@ -16,10 +16,10 @@ redirect_from:
 
 <p style="text-align: justify;"><font size=3>I have had the honor of serving in the following activities: </font></p>
 
-Review
+Journal Service
 ------
 <ul>
-  <li><font size=3>Journal Reviewer:</font></li>
+  <li><font size=3>Reviewer</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
         <li><font size=3>IEEE: TCOM / TWC / TSP / TII / TIE / IoTJ / TVT / THMS / TNNLS / TMM / ComMag / WCL / CL / Access</font></li>
@@ -28,14 +28,32 @@ Review
         <li><font size=3>Elsevier: SP / DSP / PR / ADHIC / TELER / VLSIJ / AE / EAAI / COMNET / NEUNET / FGCS</font></li>
       </ul>
     </ul>
-  <li><font size=3>Conference Reviewer:</font></li>
+  <li><font size=3>Editorial Board</font></li>
     <ul style="margin-left: -40px;">
       <ul style="margin-left: 0px;">
-        <li><font size=3> Communications / Networking Conferences: ICC'23, GLOBECOM'24, ICCC'24, WCNC'26</font></li>
-        <li><font size=3> AI / Robotic Conferences: ICRA'25, NeurIPS'25, AAAI'26</font></li>
+        <li><font size=3> China Communications (2026-Present)</font></li>
       </ul>
     </ul>
 </ul>  
+
+Conference Services
+------
+<ul>
+  <li><font size=3>Reviewer:</font></li>
+    <ul style="margin-left: -40px;">
+      <ul style="margin-left: 0px;">
+        <li><font size=3> Communications / Networking Conferences: ICC'23, GLOBECOM'24, ICCC'24, WCNC'26</font></li>
+        <li><font size=3> AI / Robotic Conferences: ICRA'25, NeurIPS'25</font></li>
+      </ul>
+    </ul>
+    <li><font size=3>Program Committee Member:</font></li>
+    <ul style="margin-left: -40px;">
+      <ul style="margin-left: 0px;">
+        <li><font size=3> AAAI'26</font></li>
+      </ul>
+    </ul>
+</ul>  
+
           
 Teaching
 ------

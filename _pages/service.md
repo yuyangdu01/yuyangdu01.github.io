@@ -28,12 +28,8 @@ Journal Services
         <li><font size=3>Elsevier: SP / DSP / PR / ADHIC / TELER / VLSIJ / AE / EAAI / COMNET / NEUNET / FGCS</font></li>
       </ul>
     </ul>
-  <li><font size=3>Editorial Board</font></li>
-    <ul style="margin-left: -40px;">
-      <ul style="margin-left: 0px;">
-        <li><font size=3> China Communications (2026-Present)</font></li>
-      </ul>
-    </ul>
+  <li><font size=3>Editorial Board: China Communications (2026-Present)</font></li>
+  
 </ul>  
 
 Conference Services
@@ -46,12 +42,7 @@ Conference Services
         <li><font size=3> AI / Robotic Conferences: ICRA'25, NeurIPS'25</font></li>
       </ul>
     </ul>
-    <li><font size=3>Program Committee Member:</font></li>
-    <ul style="margin-left: -40px;">
-      <ul style="margin-left: 0px;">
-        <li><font size=3> AAAI'26</font></li>
-      </ul>
-    </ul>
+    <li><font size=3>Program Committee Member: AAAI'26</font></li>
 </ul>  
 
           

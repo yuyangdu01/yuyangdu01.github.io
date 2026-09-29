@@ -30,6 +30,7 @@ News <font size=3></font>
 * <font size=3><b>2026-04</b>: Our paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> is accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2026-02</b>: <a href="https://arxiv.org/abs/2507.15664">KnowGuard</a> is accepted by <b>ICLR'26</b>.</font>
 * <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> and <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> are accepted by <b>ISQED'26</b> and <b>ICNC'26</b>, respectively.</font>
+* <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25</b>.</font>
 * <font size=3><b>2025-07</b>: One paper about <a href="https://ieeexplore.ieee.org/document/11113346/">Generative Semantic Communication</a> accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2025-06</b>: One paper about <a href="https://openreview.net/forum?id=H57HtksYpC">MLLM-assisted Data Mining</a> is accepted by <b>ICCV'25</b>.</font>
 * <font size=3><b>2025-05</b>: <a href="https://ieeexplore.ieee.org/document/11045720">LMT++</a>, a MLLM-empowered knowledge distillation framework, is accepted by <b>IEEE TMI</b>.</font>

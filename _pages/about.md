@@ -26,16 +26,10 @@ a {
 News <font size=3></font>
 ------
 * <font size=3><b>2026-09</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework we developed for science-related ethical alignment, has been accepted by <b>Nature Communications</b>.</font>
-* <font size=3><b>2026-08/09</b>: Those papers recently avaliable on Arxiv: <a href="https://arxiv.org/abs/2608.15207">Iterative CL-SEC</a>, <a href="https://arxiv.org/abs/2608.16100">TISC</a>, <a href="https://arxiv.org/abs/2609.18075">SemABR</a>, and an opinion <a href="https://arxiv.org/abs/2608.02341">paper</a> discussing WiFi broadcasting limit for edge LLM inference.</font>
 * <font size=3><b>2026-05</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) accepted by <b>Mobisys'26</b>.</font>
 * <font size=3><b>2026-04</b>: Our paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> is accepted by <b>IEEE TMLCN</b>.</font>
-* <font size=3><b>2026-03</b>: <a href="https://arxiv.org/abs/2603.26125">CL-SEC</a>, an LLM-powered cross-layer semantic error correction framework, is now on Arxiv.</font>
 * <font size=3><b>2026-02</b>: <a href="https://arxiv.org/abs/2507.15664">KnowGuard</a> is accepted by <b>ICLR'26</b>.</font>
 * <font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> and <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a> are accepted by <b>ISQED'26</b> and <b>ICNC'26</b>, respectively.</font>
-* <font size=3><b>2025-11</b>: Our distributed edge MoE inference framework <a href="https://arxiv.org/abs/2512.03927">OD-MoE</a> is available on Arxiv.</font>
-* <font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on Arxiv; <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25</b>.</font>
-* <font size=3><b>2025-09</b>: One paper about <a href="https://arxiv.org/abs/2509.06119">Industrial Robotic Network</a> is available on Arxiv.</font>
-* <font size=3><b>2025-08</b>: <a href="https://arxiv.org/abs/2508.13920"> LLMind 2.0</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> and <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a> are available on Arxiv.</font>
 * <font size=3><b>2025-07</b>: One paper about <a href="https://ieeexplore.ieee.org/document/11113346/">Generative Semantic Communication</a> accepted by <b>IEEE TMLCN</b>.</font>
 * <font size=3><b>2025-06</b>: One paper about <a href="https://openreview.net/forum?id=H57HtksYpC">MLLM-assisted Data Mining</a> is accepted by <b>ICCV'25</b>.</font>
 * <font size=3><b>2025-05</b>: <a href="https://ieeexplore.ieee.org/document/11045720">LMT++</a>, a MLLM-empowered knowledge distillation framework, is accepted by <b>IEEE TMI</b>.</font>
